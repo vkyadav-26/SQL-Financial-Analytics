@@ -1,0 +1,2534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="9" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">customer_code</Data></Cell>
+			<Cell><Data ss:Type="String">tot_sold_qty</Data></Cell>
+			<Cell><Data ss:Type="String">tot_forecast_qty</Data></Cell>
+			<Cell><Data ss:Type="String">net_error</Data></Cell>
+			<Cell><Data ss:Type="String">net_error_pct</Data></Cell>
+			<Cell><Data ss:Type="String">abs_error</Data></Cell>
+			<Cell><Data ss:Type="String">abs_error_pct</Data></Cell>
+			<Cell><Data ss:Type="String">customer</Data></Cell>
+			<Cell><Data ss:Type="String">market</Data></Cell>
+			<Cell><Data ss:Type="String">forecast_accuracy</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">90013120</Data></Cell>
+			<Cell><Data ss:Type="Number">109547</Data></Cell>
+			<Cell><Data ss:Type="Number">133467</Data></Cell>
+			<Cell><Data ss:Type="Number">23920</Data></Cell>
+			<Cell><Data ss:Type="Number">17.9220</Data></Cell>
+			<Cell><Data ss:Type="Number">70402</Data></Cell>
+			<Cell><Data ss:Type="Number">52.7486</Data></Cell>
+			<Cell><Data ss:Type="String">Coolblue</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">47.2514</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70010048</Data></Cell>
+			<Cell><Data ss:Type="Number">119439</Data></Cell>
+			<Cell><Data ss:Type="Number">141965</Data></Cell>
+			<Cell><Data ss:Type="Number">22526</Data></Cell>
+			<Cell><Data ss:Type="Number">15.8673</Data></Cell>
+			<Cell><Data ss:Type="Number">75666</Data></Cell>
+			<Cell><Data ss:Type="Number">53.2991</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Bangladesh</Data></Cell>
+			<Cell><Data ss:Type="Number">46.7009</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90023027</Data></Cell>
+			<Cell><Data ss:Type="Number">236189</Data></Cell>
+			<Cell><Data ss:Type="Number">279941</Data></Cell>
+			<Cell><Data ss:Type="Number">43752</Data></Cell>
+			<Cell><Data ss:Type="Number">15.6290</Data></Cell>
+			<Cell><Data ss:Type="Number">149282</Data></Cell>
+			<Cell><Data ss:Type="Number">53.3262</Data></Cell>
+			<Cell><Data ss:Type="String">Costco</Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">46.6738</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90023026</Data></Cell>
+			<Cell><Data ss:Type="Number">228988</Data></Cell>
+			<Cell><Data ss:Type="Number">273474</Data></Cell>
+			<Cell><Data ss:Type="Number">44486</Data></Cell>
+			<Cell><Data ss:Type="Number">16.2670</Data></Cell>
+			<Cell><Data ss:Type="Number">146930</Data></Cell>
+			<Cell><Data ss:Type="Number">53.7272</Data></Cell>
+			<Cell><Data ss:Type="String">Relief</Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">46.2728</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90017051</Data></Cell>
+			<Cell><Data ss:Type="Number">86823</Data></Cell>
+			<Cell><Data ss:Type="Number">117961</Data></Cell>
+			<Cell><Data ss:Type="Number">31138</Data></Cell>
+			<Cell><Data ss:Type="Number">26.3969</Data></Cell>
+			<Cell><Data ss:Type="Number">63462</Data></Cell>
+			<Cell><Data ss:Type="Number">53.7991</Data></Cell>
+			<Cell><Data ss:Type="String">Forward Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">46.2009</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90017058</Data></Cell>
+			<Cell><Data ss:Type="Number">86860</Data></Cell>
+			<Cell><Data ss:Type="Number">110086</Data></Cell>
+			<Cell><Data ss:Type="Number">23226</Data></Cell>
+			<Cell><Data ss:Type="Number">21.0981</Data></Cell>
+			<Cell><Data ss:Type="Number">59364</Data></Cell>
+			<Cell><Data ss:Type="Number">53.9251</Data></Cell>
+			<Cell><Data ss:Type="String">Mbit</Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">46.0749</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90023028</Data></Cell>
+			<Cell><Data ss:Type="Number">239081</Data></Cell>
+			<Cell><Data ss:Type="Number">283309</Data></Cell>
+			<Cell><Data ss:Type="Number">44228</Data></Cell>
+			<Cell><Data ss:Type="Number">15.6112</Data></Cell>
+			<Cell><Data ss:Type="Number">153044</Data></Cell>
+			<Cell><Data ss:Type="Number">54.0202</Data></Cell>
+			<Cell><Data ss:Type="String">walmart</Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">45.9798</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70027208</Data></Cell>
+			<Cell><Data ss:Type="Number">33713</Data></Cell>
+			<Cell><Data ss:Type="Number">46995</Data></Cell>
+			<Cell><Data ss:Type="Number">13282</Data></Cell>
+			<Cell><Data ss:Type="Number">28.2626</Data></Cell>
+			<Cell><Data ss:Type="Number">25458</Data></Cell>
+			<Cell><Data ss:Type="Number">54.1717</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">45.8283</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90023024</Data></Cell>
+			<Cell><Data ss:Type="Number">246397</Data></Cell>
+			<Cell><Data ss:Type="Number">287220</Data></Cell>
+			<Cell><Data ss:Type="Number">40823</Data></Cell>
+			<Cell><Data ss:Type="Number">14.2131</Data></Cell>
+			<Cell><Data ss:Type="Number">155597</Data></Cell>
+			<Cell><Data ss:Type="Number">54.1735</Data></Cell>
+			<Cell><Data ss:Type="String">Sage</Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">45.8265</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90013124</Data></Cell>
+			<Cell><Data ss:Type="Number">110898</Data></Cell>
+			<Cell><Data ss:Type="Number">136066</Data></Cell>
+			<Cell><Data ss:Type="Number">25168</Data></Cell>
+			<Cell><Data ss:Type="Number">18.4969</Data></Cell>
+			<Cell><Data ss:Type="Number">73776</Data></Cell>
+			<Cell><Data ss:Type="Number">54.2207</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">45.7793</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90015146</Data></Cell>
+			<Cell><Data ss:Type="Number">147152</Data></Cell>
+			<Cell><Data ss:Type="Number">210472</Data></Cell>
+			<Cell><Data ss:Type="Number">63320</Data></Cell>
+			<Cell><Data ss:Type="Number">30.0848</Data></Cell>
+			<Cell><Data ss:Type="Number">114154</Data></Cell>
+			<Cell><Data ss:Type="Number">54.2371</Data></Cell>
+			<Cell><Data ss:Type="String">Mbit</Data></Cell>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">45.7629</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90017054</Data></Cell>
+			<Cell><Data ss:Type="Number">84371</Data></Cell>
+			<Cell><Data ss:Type="Number">114612</Data></Cell>
+			<Cell><Data ss:Type="Number">30241</Data></Cell>
+			<Cell><Data ss:Type="Number">26.3855</Data></Cell>
+			<Cell><Data ss:Type="Number">62397</Data></Cell>
+			<Cell><Data ss:Type="Number">54.4419</Data></Cell>
+			<Cell><Data ss:Type="String">Flawless Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">45.5581</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90015147</Data></Cell>
+			<Cell><Data ss:Type="Number">154897</Data></Cell>
+			<Cell><Data ss:Type="Number">223831</Data></Cell>
+			<Cell><Data ss:Type="Number">68934</Data></Cell>
+			<Cell><Data ss:Type="Number">30.7973</Data></Cell>
+			<Cell><Data ss:Type="Number">122064</Data></Cell>
+			<Cell><Data ss:Type="Number">54.5340</Data></Cell>
+			<Cell><Data ss:Type="String">Chiptec</Data></Cell>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">45.4660</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">80001019</Data></Cell>
+			<Cell><Data ss:Type="Number">1113979</Data></Cell>
+			<Cell><Data ss:Type="Number">1275248</Data></Cell>
+			<Cell><Data ss:Type="Number">161269</Data></Cell>
+			<Cell><Data ss:Type="Number">12.6461</Data></Cell>
+			<Cell><Data ss:Type="Number">695779</Data></Cell>
+			<Cell><Data ss:Type="Number">54.5603</Data></Cell>
+			<Cell><Data ss:Type="String">Neptune</Data></Cell>
+			<Cell><Data ss:Type="String">China</Data></Cell>
+			<Cell><Data ss:Type="Number">45.4397</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90025209</Data></Cell>
+			<Cell><Data ss:Type="Number">13178</Data></Cell>
+			<Cell><Data ss:Type="Number">15070</Data></Cell>
+			<Cell><Data ss:Type="Number">1892</Data></Cell>
+			<Cell><Data ss:Type="Number">12.5547</Data></Cell>
+			<Cell><Data ss:Type="Number">8224</Data></Cell>
+			<Cell><Data ss:Type="Number">54.5720</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsbea Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Columbia</Data></Cell>
+			<Cell><Data ss:Type="Number">45.4280</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90015144</Data></Cell>
+			<Cell><Data ss:Type="Number">160074</Data></Cell>
+			<Cell><Data ss:Type="Number">225596</Data></Cell>
+			<Cell><Data ss:Type="Number">65522</Data></Cell>
+			<Cell><Data ss:Type="Number">29.0440</Data></Cell>
+			<Cell><Data ss:Type="Number">123216</Data></Cell>
+			<Cell><Data ss:Type="Number">54.6180</Data></Cell>
+			<Cell><Data ss:Type="String">Sound</Data></Cell>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">45.3820</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90009130</Data></Cell>
+			<Cell><Data ss:Type="Number">103290</Data></Cell>
+			<Cell><Data ss:Type="Number">110127</Data></Cell>
+			<Cell><Data ss:Type="Number">6837</Data></Cell>
+			<Cell><Data ss:Type="Number">6.2083</Data></Cell>
+			<Cell><Data ss:Type="Number">60177</Data></Cell>
+			<Cell><Data ss:Type="Number">54.6433</Data></Cell>
+			<Cell><Data ss:Type="String">Logic Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Newzealand</Data></Cell>
+			<Cell><Data ss:Type="Number">45.3567</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90015149</Data></Cell>
+			<Cell><Data ss:Type="Number">142086</Data></Cell>
+			<Cell><Data ss:Type="Number">212477</Data></Cell>
+			<Cell><Data ss:Type="Number">70391</Data></Cell>
+			<Cell><Data ss:Type="Number">33.1288</Data></Cell>
+			<Cell><Data ss:Type="Number">116149</Data></Cell>
+			<Cell><Data ss:Type="Number">54.6643</Data></Cell>
+			<Cell><Data ss:Type="String">UniEuro</Data></Cell>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">45.3357</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90021088</Data></Cell>
+			<Cell><Data ss:Type="Number">224350</Data></Cell>
+			<Cell><Data ss:Type="Number">323669</Data></Cell>
+			<Cell><Data ss:Type="Number">99319</Data></Cell>
+			<Cell><Data ss:Type="Number">30.6854</Data></Cell>
+			<Cell><Data ss:Type="Number">176955</Data></Cell>
+			<Cell><Data ss:Type="Number">54.6716</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalslytical</Data></Cell>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">45.3284</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90017050</Data></Cell>
+			<Cell><Data ss:Type="Number">85272</Data></Cell>
+			<Cell><Data ss:Type="Number">114593</Data></Cell>
+			<Cell><Data ss:Type="Number">29321</Data></Cell>
+			<Cell><Data ss:Type="Number">25.5871</Data></Cell>
+			<Cell><Data ss:Type="Number">62665</Data></Cell>
+			<Cell><Data ss:Type="Number">54.6848</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsara Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">45.3152</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70013125</Data></Cell>
+			<Cell><Data ss:Type="Number">101658</Data></Cell>
+			<Cell><Data ss:Type="Number">123347</Data></Cell>
+			<Cell><Data ss:Type="Number">21689</Data></Cell>
+			<Cell><Data ss:Type="Number">17.5837</Data></Cell>
+			<Cell><Data ss:Type="Number">67465</Data></Cell>
+			<Cell><Data ss:Type="Number">54.6953</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">45.3047</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90021094</Data></Cell>
+			<Cell><Data ss:Type="Number">208512</Data></Cell>
+			<Cell><Data ss:Type="Number">301328</Data></Cell>
+			<Cell><Data ss:Type="Number">92816</Data></Cell>
+			<Cell><Data ss:Type="Number">30.8023</Data></Cell>
+			<Cell><Data ss:Type="Number">165004</Data></Cell>
+			<Cell><Data ss:Type="Number">54.7589</Data></Cell>
+			<Cell><Data ss:Type="String">Coolblue</Data></Cell>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">45.2411</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70009134</Data></Cell>
+			<Cell><Data ss:Type="Number">103747</Data></Cell>
+			<Cell><Data ss:Type="Number">110739</Data></Cell>
+			<Cell><Data ss:Type="Number">6992</Data></Cell>
+			<Cell><Data ss:Type="Number">6.3139</Data></Cell>
+			<Cell><Data ss:Type="Number">60674</Data></Cell>
+			<Cell><Data ss:Type="Number">54.7901</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Newzealand</Data></Cell>
+			<Cell><Data ss:Type="Number">45.2099</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90013118</Data></Cell>
+			<Cell><Data ss:Type="Number">101847</Data></Cell>
+			<Cell><Data ss:Type="Number">126209</Data></Cell>
+			<Cell><Data ss:Type="Number">24362</Data></Cell>
+			<Cell><Data ss:Type="Number">19.3029</Data></Cell>
+			<Cell><Data ss:Type="Number">69162</Data></Cell>
+			<Cell><Data ss:Type="Number">54.7996</Data></Cell>
+			<Cell><Data ss:Type="String">Fnac-Darty</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">45.2004</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70017060</Data></Cell>
+			<Cell><Data ss:Type="Number">89925</Data></Cell>
+			<Cell><Data ss:Type="Number">120648</Data></Cell>
+			<Cell><Data ss:Type="Number">30723</Data></Cell>
+			<Cell><Data ss:Type="Number">25.4650</Data></Cell>
+			<Cell><Data ss:Type="Number">66189</Data></Cell>
+			<Cell><Data ss:Type="Number">54.8612</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">45.1388</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90013122</Data></Cell>
+			<Cell><Data ss:Type="Number">100746</Data></Cell>
+			<Cell><Data ss:Type="Number">123438</Data></Cell>
+			<Cell><Data ss:Type="Number">22692</Data></Cell>
+			<Cell><Data ss:Type="Number">18.3833</Data></Cell>
+			<Cell><Data ss:Type="Number">67744</Data></Cell>
+			<Cell><Data ss:Type="Number">54.8810</Data></Cell>
+			<Cell><Data ss:Type="String">Radio Popular</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">45.1190</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70023031</Data></Cell>
+			<Cell><Data ss:Type="Number">234114</Data></Cell>
+			<Cell><Data ss:Type="Number">286276</Data></Cell>
+			<Cell><Data ss:Type="Number">52162</Data></Cell>
+			<Cell><Data ss:Type="Number">18.2209</Data></Cell>
+			<Cell><Data ss:Type="Number">157150</Data></Cell>
+			<Cell><Data ss:Type="Number">54.8946</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">45.1054</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90017053</Data></Cell>
+			<Cell><Data ss:Type="Number">84149</Data></Cell>
+			<Cell><Data ss:Type="Number">111670</Data></Cell>
+			<Cell><Data ss:Type="Number">27521</Data></Cell>
+			<Cell><Data ss:Type="Number">24.6449</Data></Cell>
+			<Cell><Data ss:Type="Number">61303</Data></Cell>
+			<Cell><Data ss:Type="Number">54.8966</Data></Cell>
+			<Cell><Data ss:Type="String">Info Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">45.1034</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90023025</Data></Cell>
+			<Cell><Data ss:Type="Number">220808</Data></Cell>
+			<Cell><Data ss:Type="Number">266331</Data></Cell>
+			<Cell><Data ss:Type="Number">45523</Data></Cell>
+			<Cell><Data ss:Type="Number">17.0926</Data></Cell>
+			<Cell><Data ss:Type="Number">146215</Data></Cell>
+			<Cell><Data ss:Type="Number">54.8997</Data></Cell>
+			<Cell><Data ss:Type="String">Premium Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">45.1003</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90017059</Data></Cell>
+			<Cell><Data ss:Type="Number">87828</Data></Cell>
+			<Cell><Data ss:Type="Number">114067</Data></Cell>
+			<Cell><Data ss:Type="Number">26239</Data></Cell>
+			<Cell><Data ss:Type="Number">23.0031</Data></Cell>
+			<Cell><Data ss:Type="Number">62633</Data></Cell>
+			<Cell><Data ss:Type="Number">54.9090</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">45.0910</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90023022</Data></Cell>
+			<Cell><Data ss:Type="Number">225182</Data></Cell>
+			<Cell><Data ss:Type="Number">264868</Data></Cell>
+			<Cell><Data ss:Type="Number">39686</Data></Cell>
+			<Cell><Data ss:Type="Number">14.9833</Data></Cell>
+			<Cell><Data ss:Type="Number">145526</Data></Cell>
+			<Cell><Data ss:Type="Number">54.9428</Data></Cell>
+			<Cell><Data ss:Type="String">Nomad Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">45.0572</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002007</Data></Cell>
+			<Cell><Data ss:Type="Number">746226</Data></Cell>
+			<Cell><Data ss:Type="Number">778757</Data></Cell>
+			<Cell><Data ss:Type="Number">32531</Data></Cell>
+			<Cell><Data ss:Type="Number">4.1773</Data></Cell>
+			<Cell><Data ss:Type="Number">427909</Data></Cell>
+			<Cell><Data ss:Type="Number">54.9477</Data></Cell>
+			<Cell><Data ss:Type="String">Girias</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">45.0523</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90001021</Data></Cell>
+			<Cell><Data ss:Type="Number">259715</Data></Cell>
+			<Cell><Data ss:Type="Number">297949</Data></Cell>
+			<Cell><Data ss:Type="Number">38234</Data></Cell>
+			<Cell><Data ss:Type="Number">12.8324</Data></Cell>
+			<Cell><Data ss:Type="Number">163912</Data></Cell>
+			<Cell><Data ss:Type="Number">55.0134</Data></Cell>
+			<Cell><Data ss:Type="String">Taobao</Data></Cell>
+			<Cell><Data ss:Type="String">China</Data></Cell>
+			<Cell><Data ss:Type="Number">44.9866</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90017049</Data></Cell>
+			<Cell><Data ss:Type="Number">82557</Data></Cell>
+			<Cell><Data ss:Type="Number">112162</Data></Cell>
+			<Cell><Data ss:Type="Number">29605</Data></Cell>
+			<Cell><Data ss:Type="Number">26.3949</Data></Cell>
+			<Cell><Data ss:Type="Number">61759</Data></Cell>
+			<Cell><Data ss:Type="Number">55.0623</Data></Cell>
+			<Cell><Data ss:Type="String">Premium Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">44.9377</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90017052</Data></Cell>
+			<Cell><Data ss:Type="Number">88498</Data></Cell>
+			<Cell><Data ss:Type="Number">121612</Data></Cell>
+			<Cell><Data ss:Type="Number">33114</Data></Cell>
+			<Cell><Data ss:Type="Number">27.2292</Data></Cell>
+			<Cell><Data ss:Type="Number">67056</Data></Cell>
+			<Cell><Data ss:Type="Number">55.1393</Data></Cell>
+			<Cell><Data ss:Type="String">Power</Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">44.8607</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90017056</Data></Cell>
+			<Cell><Data ss:Type="Number">88606</Data></Cell>
+			<Cell><Data ss:Type="Number">120127</Data></Cell>
+			<Cell><Data ss:Type="Number">31521</Data></Cell>
+			<Cell><Data ss:Type="Number">26.2397</Data></Cell>
+			<Cell><Data ss:Type="Number">66327</Data></Cell>
+			<Cell><Data ss:Type="Number">55.2141</Data></Cell>
+			<Cell><Data ss:Type="String">Sorefoz</Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">44.7859</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90015148</Data></Cell>
+			<Cell><Data ss:Type="Number">160192</Data></Cell>
+			<Cell><Data ss:Type="Number">220085</Data></Cell>
+			<Cell><Data ss:Type="Number">59893</Data></Cell>
+			<Cell><Data ss:Type="Number">27.2136</Data></Cell>
+			<Cell><Data ss:Type="Number">121523</Data></Cell>
+			<Cell><Data ss:Type="Number">55.2164</Data></Cell>
+			<Cell><Data ss:Type="String">Boulanger</Data></Cell>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">44.7836</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90013123</Data></Cell>
+			<Cell><Data ss:Type="Number">103752</Data></Cell>
+			<Cell><Data ss:Type="Number">129430</Data></Cell>
+			<Cell><Data ss:Type="Number">25678</Data></Cell>
+			<Cell><Data ss:Type="Number">19.8393</Data></Cell>
+			<Cell><Data ss:Type="Number">71472</Data></Cell>
+			<Cell><Data ss:Type="Number">55.2206</Data></Cell>
+			<Cell><Data ss:Type="String">Expert</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">44.7794</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90013119</Data></Cell>
+			<Cell><Data ss:Type="Number">104824</Data></Cell>
+			<Cell><Data ss:Type="Number">130565</Data></Cell>
+			<Cell><Data ss:Type="Number">25741</Data></Cell>
+			<Cell><Data ss:Type="Number">19.7151</Data></Cell>
+			<Cell><Data ss:Type="Number">72167</Data></Cell>
+			<Cell><Data ss:Type="Number">55.2729</Data></Cell>
+			<Cell><Data ss:Type="String">Argos (Sainsbury's)</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">44.7271</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90017055</Data></Cell>
+			<Cell><Data ss:Type="Number">88219</Data></Cell>
+			<Cell><Data ss:Type="Number">119987</Data></Cell>
+			<Cell><Data ss:Type="Number">31768</Data></Cell>
+			<Cell><Data ss:Type="Number">26.4762</Data></Cell>
+			<Cell><Data ss:Type="Number">66326</Data></Cell>
+			<Cell><Data ss:Type="Number">55.2777</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalslance Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">44.7223</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002012</Data></Cell>
+			<Cell><Data ss:Type="Number">749889</Data></Cell>
+			<Cell><Data ss:Type="Number">792439</Data></Cell>
+			<Cell><Data ss:Type="Number">42550</Data></Cell>
+			<Cell><Data ss:Type="Number">5.3695</Data></Cell>
+			<Cell><Data ss:Type="Number">438508</Data></Cell>
+			<Cell><Data ss:Type="Number">55.3365</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsocity</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">44.6635</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90013116</Data></Cell>
+			<Cell><Data ss:Type="Number">109113</Data></Cell>
+			<Cell><Data ss:Type="Number">133979</Data></Cell>
+			<Cell><Data ss:Type="Number">24866</Data></Cell>
+			<Cell><Data ss:Type="Number">18.5596</Data></Cell>
+			<Cell><Data ss:Type="Number">74186</Data></Cell>
+			<Cell><Data ss:Type="Number">55.3714</Data></Cell>
+			<Cell><Data ss:Type="String">Unity Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">44.6286</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90021087</Data></Cell>
+			<Cell><Data ss:Type="Number">211131</Data></Cell>
+			<Cell><Data ss:Type="Number">319706</Data></Cell>
+			<Cell><Data ss:Type="Number">108575</Data></Cell>
+			<Cell><Data ss:Type="Number">33.9609</Data></Cell>
+			<Cell><Data ss:Type="Number">177189</Data></Cell>
+			<Cell><Data ss:Type="Number">55.4225</Data></Cell>
+			<Cell><Data ss:Type="String">Logic Stores</Data></Cell>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">44.5775</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90021095</Data></Cell>
+			<Cell><Data ss:Type="Number">219009</Data></Cell>
+			<Cell><Data ss:Type="Number">314288</Data></Cell>
+			<Cell><Data ss:Type="Number">95279</Data></Cell>
+			<Cell><Data ss:Type="Number">30.3158</Data></Cell>
+			<Cell><Data ss:Type="Number">174335</Data></Cell>
+			<Cell><Data ss:Type="Number">55.4698</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">44.5302</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90021093</Data></Cell>
+			<Cell><Data ss:Type="Number">204913</Data></Cell>
+			<Cell><Data ss:Type="Number">296229</Data></Cell>
+			<Cell><Data ss:Type="Number">91316</Data></Cell>
+			<Cell><Data ss:Type="Number">30.8262</Data></Cell>
+			<Cell><Data ss:Type="Number">164404</Data></Cell>
+			<Cell><Data ss:Type="Number">55.4990</Data></Cell>
+			<Cell><Data ss:Type="String">Chip 7</Data></Cell>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">44.5010</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90021086</Data></Cell>
+			<Cell><Data ss:Type="Number">210548</Data></Cell>
+			<Cell><Data ss:Type="Number">298312</Data></Cell>
+			<Cell><Data ss:Type="Number">87764</Data></Cell>
+			<Cell><Data ss:Type="Number">29.4202</Data></Cell>
+			<Cell><Data ss:Type="Number">165688</Data></Cell>
+			<Cell><Data ss:Type="Number">55.5418</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsquipo Stores</Data></Cell>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">44.4582</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90021090</Data></Cell>
+			<Cell><Data ss:Type="Number">209910</Data></Cell>
+			<Cell><Data ss:Type="Number">297931</Data></Cell>
+			<Cell><Data ss:Type="Number">88021</Data></Cell>
+			<Cell><Data ss:Type="Number">29.5441</Data></Cell>
+			<Cell><Data ss:Type="Number">165715</Data></Cell>
+			<Cell><Data ss:Type="Number">55.6219</Data></Cell>
+			<Cell><Data ss:Type="String">Radio Popular</Data></Cell>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">44.3781</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002001</Data></Cell>
+			<Cell><Data ss:Type="Number">695430</Data></Cell>
+			<Cell><Data ss:Type="Number">723756</Data></Cell>
+			<Cell><Data ss:Type="Number">28326</Data></Cell>
+			<Cell><Data ss:Type="Number">3.9137</Data></Cell>
+			<Cell><Data ss:Type="Number">402842</Data></Cell>
+			<Cell><Data ss:Type="Number">55.6599</Data></Cell>
+			<Cell><Data ss:Type="String">Reliance Digital</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">44.3401</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002010</Data></Cell>
+			<Cell><Data ss:Type="Number">711794</Data></Cell>
+			<Cell><Data ss:Type="Number">732173</Data></Cell>
+			<Cell><Data ss:Type="Number">20379</Data></Cell>
+			<Cell><Data ss:Type="Number">2.7834</Data></Cell>
+			<Cell><Data ss:Type="Number">407849</Data></Cell>
+			<Cell><Data ss:Type="Number">55.7039</Data></Cell>
+			<Cell><Data ss:Type="String">Ebay</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">44.2961</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90027207</Data></Cell>
+			<Cell><Data ss:Type="Number">32354</Data></Cell>
+			<Cell><Data ss:Type="Number">44280</Data></Cell>
+			<Cell><Data ss:Type="Number">11926</Data></Cell>
+			<Cell><Data ss:Type="Number">26.9332</Data></Cell>
+			<Cell><Data ss:Type="Number">24666</Data></Cell>
+			<Cell><Data ss:Type="Number">55.7046</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">44.2954</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70015152</Data></Cell>
+			<Cell><Data ss:Type="Number">158481</Data></Cell>
+			<Cell><Data ss:Type="Number">223446</Data></Cell>
+			<Cell><Data ss:Type="Number">64965</Data></Cell>
+			<Cell><Data ss:Type="Number">29.0741</Data></Cell>
+			<Cell><Data ss:Type="Number">124669</Data></Cell>
+			<Cell><Data ss:Type="Number">55.7938</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">44.2062</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90009127</Data></Cell>
+			<Cell><Data ss:Type="Number">105176</Data></Cell>
+			<Cell><Data ss:Type="Number">113701</Data></Cell>
+			<Cell><Data ss:Type="Number">8525</Data></Cell>
+			<Cell><Data ss:Type="Number">7.4977</Data></Cell>
+			<Cell><Data ss:Type="Number">63519</Data></Cell>
+			<Cell><Data ss:Type="Number">55.8649</Data></Cell>
+			<Cell><Data ss:Type="String">Epic Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Newzealand</Data></Cell>
+			<Cell><Data ss:Type="Number">44.1351</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90001020</Data></Cell>
+			<Cell><Data ss:Type="Number">289006</Data></Cell>
+			<Cell><Data ss:Type="Number">317472</Data></Cell>
+			<Cell><Data ss:Type="Number">28466</Data></Cell>
+			<Cell><Data ss:Type="Number">8.9665</Data></Cell>
+			<Cell><Data ss:Type="Number">177372</Data></Cell>
+			<Cell><Data ss:Type="Number">55.8701</Data></Cell>
+			<Cell><Data ss:Type="String">Zone</Data></Cell>
+			<Cell><Data ss:Type="String">China</Data></Cell>
+			<Cell><Data ss:Type="Number">44.1299</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002003</Data></Cell>
+			<Cell><Data ss:Type="Number">736363</Data></Cell>
+			<Cell><Data ss:Type="Number">763239</Data></Cell>
+			<Cell><Data ss:Type="Number">26876</Data></Cell>
+			<Cell><Data ss:Type="Number">3.5213</Data></Cell>
+			<Cell><Data ss:Type="Number">426568</Data></Cell>
+			<Cell><Data ss:Type="Number">55.8892</Data></Cell>
+			<Cell><Data ss:Type="String">Ezone</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">44.1108</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90009131</Data></Cell>
+			<Cell><Data ss:Type="Number">106222</Data></Cell>
+			<Cell><Data ss:Type="Number">115238</Data></Cell>
+			<Cell><Data ss:Type="Number">9016</Data></Cell>
+			<Cell><Data ss:Type="Number">7.8238</Data></Cell>
+			<Cell><Data ss:Type="Number">64578</Data></Cell>
+			<Cell><Data ss:Type="Number">56.0388</Data></Cell>
+			<Cell><Data ss:Type="String">Path</Data></Cell>
+			<Cell><Data ss:Type="String">Newzealand</Data></Cell>
+			<Cell><Data ss:Type="Number">43.9612</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90021089</Data></Cell>
+			<Cell><Data ss:Type="Number">205601</Data></Cell>
+			<Cell><Data ss:Type="Number">304328</Data></Cell>
+			<Cell><Data ss:Type="Number">98727</Data></Cell>
+			<Cell><Data ss:Type="Number">32.4410</Data></Cell>
+			<Cell><Data ss:Type="Number">170563</Data></Cell>
+			<Cell><Data ss:Type="Number">56.0458</Data></Cell>
+			<Cell><Data ss:Type="String">Atlas Stores</Data></Cell>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">43.9542</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90009132</Data></Cell>
+			<Cell><Data ss:Type="Number">108371</Data></Cell>
+			<Cell><Data ss:Type="Number">115953</Data></Cell>
+			<Cell><Data ss:Type="Number">7582</Data></Cell>
+			<Cell><Data ss:Type="Number">6.5389</Data></Cell>
+			<Cell><Data ss:Type="Number">64998</Data></Cell>
+			<Cell><Data ss:Type="Number">56.0555</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Newzealand</Data></Cell>
+			<Cell><Data ss:Type="Number">43.9445</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70010047</Data></Cell>
+			<Cell><Data ss:Type="Number">116158</Data></Cell>
+			<Cell><Data ss:Type="Number">134886</Data></Cell>
+			<Cell><Data ss:Type="Number">18728</Data></Cell>
+			<Cell><Data ss:Type="Number">13.8843</Data></Cell>
+			<Cell><Data ss:Type="Number">75710</Data></Cell>
+			<Cell><Data ss:Type="Number">56.1289</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Bangladesh</Data></Cell>
+			<Cell><Data ss:Type="Number">43.8711</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90015150</Data></Cell>
+			<Cell><Data ss:Type="Number">146165</Data></Cell>
+			<Cell><Data ss:Type="Number">209394</Data></Cell>
+			<Cell><Data ss:Type="Number">63229</Data></Cell>
+			<Cell><Data ss:Type="Number">30.1962</Data></Cell>
+			<Cell><Data ss:Type="Number">117591</Data></Cell>
+			<Cell><Data ss:Type="Number">56.1578</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">43.8422</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90010045</Data></Cell>
+			<Cell><Data ss:Type="Number">112653</Data></Cell>
+			<Cell><Data ss:Type="Number">128136</Data></Cell>
+			<Cell><Data ss:Type="Number">15483</Data></Cell>
+			<Cell><Data ss:Type="Number">12.0833</Data></Cell>
+			<Cell><Data ss:Type="Number">71989</Data></Cell>
+			<Cell><Data ss:Type="Number">56.1817</Data></Cell>
+			<Cell><Data ss:Type="String">Control</Data></Cell>
+			<Cell><Data ss:Type="String">Bangladesh</Data></Cell>
+			<Cell><Data ss:Type="Number">43.8183</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70023032</Data></Cell>
+			<Cell><Data ss:Type="Number">244350</Data></Cell>
+			<Cell><Data ss:Type="Number">283839</Data></Cell>
+			<Cell><Data ss:Type="Number">39489</Data></Cell>
+			<Cell><Data ss:Type="Number">13.9125</Data></Cell>
+			<Cell><Data ss:Type="Number">159475</Data></Cell>
+			<Cell><Data ss:Type="Number">56.1850</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">43.8150</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90023023</Data></Cell>
+			<Cell><Data ss:Type="Number">371184</Data></Cell>
+			<Cell><Data ss:Type="Number">441346</Data></Cell>
+			<Cell><Data ss:Type="Number">70162</Data></Cell>
+			<Cell><Data ss:Type="Number">15.8973</Data></Cell>
+			<Cell><Data ss:Type="Number">248034</Data></Cell>
+			<Cell><Data ss:Type="Number">56.1994</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon</Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">43.8006</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90023030</Data></Cell>
+			<Cell><Data ss:Type="Number">230055</Data></Cell>
+			<Cell><Data ss:Type="Number">260016</Data></Cell>
+			<Cell><Data ss:Type="Number">29961</Data></Cell>
+			<Cell><Data ss:Type="Number">11.5228</Data></Cell>
+			<Cell><Data ss:Type="Number">146193</Data></Cell>
+			<Cell><Data ss:Type="Number">56.2246</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">43.7754</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90013117</Data></Cell>
+			<Cell><Data ss:Type="Number">101217</Data></Cell>
+			<Cell><Data ss:Type="Number">124547</Data></Cell>
+			<Cell><Data ss:Type="Number">23330</Data></Cell>
+			<Cell><Data ss:Type="Number">18.7319</Data></Cell>
+			<Cell><Data ss:Type="Number">70046</Data></Cell>
+			<Cell><Data ss:Type="Number">56.2406</Data></Cell>
+			<Cell><Data ss:Type="String">Euronics</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">43.7594</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90023029</Data></Cell>
+			<Cell><Data ss:Type="Number">221909</Data></Cell>
+			<Cell><Data ss:Type="Number">268672</Data></Cell>
+			<Cell><Data ss:Type="Number">46763</Data></Cell>
+			<Cell><Data ss:Type="Number">17.4052</Data></Cell>
+			<Cell><Data ss:Type="Number">151143</Data></Cell>
+			<Cell><Data ss:Type="Number">56.2556</Data></Cell>
+			<Cell><Data ss:Type="String">Staples</Data></Cell>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">43.7444</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90021092</Data></Cell>
+			<Cell><Data ss:Type="Number">222331</Data></Cell>
+			<Cell><Data ss:Type="Number">323545</Data></Cell>
+			<Cell><Data ss:Type="Number">101214</Data></Cell>
+			<Cell><Data ss:Type="Number">31.2828</Data></Cell>
+			<Cell><Data ss:Type="Number">182054</Data></Cell>
+			<Cell><Data ss:Type="Number">56.2685</Data></Cell>
+			<Cell><Data ss:Type="String">UniEuro</Data></Cell>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">43.7315</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90017057</Data></Cell>
+			<Cell><Data ss:Type="Number">83058</Data></Cell>
+			<Cell><Data ss:Type="Number">113631</Data></Cell>
+			<Cell><Data ss:Type="Number">30573</Data></Cell>
+			<Cell><Data ss:Type="Number">26.9055</Data></Cell>
+			<Cell><Data ss:Type="Number">63939</Data></Cell>
+			<Cell><Data ss:Type="Number">56.2690</Data></Cell>
+			<Cell><Data ss:Type="String">Euronics</Data></Cell>
+			<Cell><Data ss:Type="String">Portugal</Data></Cell>
+			<Cell><Data ss:Type="Number">43.7310</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70013126</Data></Cell>
+			<Cell><Data ss:Type="Number">103808</Data></Cell>
+			<Cell><Data ss:Type="Number">125246</Data></Cell>
+			<Cell><Data ss:Type="Number">21438</Data></Cell>
+			<Cell><Data ss:Type="Number">17.1167</Data></Cell>
+			<Cell><Data ss:Type="Number">70476</Data></Cell>
+			<Cell><Data ss:Type="Number">56.2701</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">43.7299</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90020097</Data></Cell>
+			<Cell><Data ss:Type="Number">30753</Data></Cell>
+			<Cell><Data ss:Type="Number">31286</Data></Cell>
+			<Cell><Data ss:Type="Number">533</Data></Cell>
+			<Cell><Data ss:Type="Number">1.7036</Data></Cell>
+			<Cell><Data ss:Type="Number">17655</Data></Cell>
+			<Cell><Data ss:Type="Number">56.4310</Data></Cell>
+			<Cell><Data ss:Type="String">Atlas Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">43.5690</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90020098</Data></Cell>
+			<Cell><Data ss:Type="Number">29796</Data></Cell>
+			<Cell><Data ss:Type="Number">31386</Data></Cell>
+			<Cell><Data ss:Type="Number">1590</Data></Cell>
+			<Cell><Data ss:Type="Number">5.0660</Data></Cell>
+			<Cell><Data ss:Type="Number">17732</Data></Cell>
+			<Cell><Data ss:Type="Number">56.4965</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsquipo Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">43.5035</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90009128</Data></Cell>
+			<Cell><Data ss:Type="Number">106425</Data></Cell>
+			<Cell><Data ss:Type="Number">118254</Data></Cell>
+			<Cell><Data ss:Type="Number">11829</Data></Cell>
+			<Cell><Data ss:Type="Number">10.0030</Data></Cell>
+			<Cell><Data ss:Type="Number">66913</Data></Cell>
+			<Cell><Data ss:Type="Number">56.5841</Data></Cell>
+			<Cell><Data ss:Type="String">Propel</Data></Cell>
+			<Cell><Data ss:Type="String">Newzealand</Data></Cell>
+			<Cell><Data ss:Type="Number">43.4159</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70002018</Data></Cell>
+			<Cell><Data ss:Type="Number">701283</Data></Cell>
+			<Cell><Data ss:Type="Number">742759</Data></Cell>
+			<Cell><Data ss:Type="Number">41476</Data></Cell>
+			<Cell><Data ss:Type="Number">5.5840</Data></Cell>
+			<Cell><Data ss:Type="Number">420936</Data></Cell>
+			<Cell><Data ss:Type="Number">56.6719</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">43.3281</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90013121</Data></Cell>
+			<Cell><Data ss:Type="Number">102628</Data></Cell>
+			<Cell><Data ss:Type="Number">122255</Data></Cell>
+			<Cell><Data ss:Type="Number">19627</Data></Cell>
+			<Cell><Data ss:Type="Number">16.0541</Data></Cell>
+			<Cell><Data ss:Type="Number">69297</Data></Cell>
+			<Cell><Data ss:Type="Number">56.6823</Data></Cell>
+			<Cell><Data ss:Type="String">Boulanger</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="Number">43.3177</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002005</Data></Cell>
+			<Cell><Data ss:Type="Number">711058</Data></Cell>
+			<Cell><Data ss:Type="Number">729564</Data></Cell>
+			<Cell><Data ss:Type="Number">18506</Data></Cell>
+			<Cell><Data ss:Type="Number">2.5366</Data></Cell>
+			<Cell><Data ss:Type="Number">413684</Data></Cell>
+			<Cell><Data ss:Type="Number">56.7029</Data></Cell>
+			<Cell><Data ss:Type="String">Lotus</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">43.2971</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90021091</Data></Cell>
+			<Cell><Data ss:Type="Number">218161</Data></Cell>
+			<Cell><Data ss:Type="Number">309900</Data></Cell>
+			<Cell><Data ss:Type="Number">91739</Data></Cell>
+			<Cell><Data ss:Type="Number">29.6028</Data></Cell>
+			<Cell><Data ss:Type="Number">175761</Data></Cell>
+			<Cell><Data ss:Type="Number">56.7154</Data></Cell>
+			<Cell><Data ss:Type="String">Expert</Data></Cell>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">43.2846</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90011186</Data></Cell>
+			<Cell><Data ss:Type="Number">204193</Data></Cell>
+			<Cell><Data ss:Type="Number">208423</Data></Cell>
+			<Cell><Data ss:Type="Number">4230</Data></Cell>
+			<Cell><Data ss:Type="Number">2.0295</Data></Cell>
+			<Cell><Data ss:Type="Number">118262</Data></Cell>
+			<Cell><Data ss:Type="Number">56.7413</Data></Cell>
+			<Cell><Data ss:Type="String">Elite</Data></Cell>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">43.2587</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90010044</Data></Cell>
+			<Cell><Data ss:Type="Number">117056</Data></Cell>
+			<Cell><Data ss:Type="Number">138085</Data></Cell>
+			<Cell><Data ss:Type="Number">21029</Data></Cell>
+			<Cell><Data ss:Type="Number">15.2290</Data></Cell>
+			<Cell><Data ss:Type="Number">78425</Data></Cell>
+			<Cell><Data ss:Type="Number">56.7947</Data></Cell>
+			<Cell><Data ss:Type="String">Surface Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Bangladesh</Data></Cell>
+			<Cell><Data ss:Type="Number">43.2053</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90020102</Data></Cell>
+			<Cell><Data ss:Type="Number">31568</Data></Cell>
+			<Cell><Data ss:Type="Number">30694</Data></Cell>
+			<Cell><Data ss:Type="Number">-874</Data></Cell>
+			<Cell><Data ss:Type="Number">-2.8475</Data></Cell>
+			<Cell><Data ss:Type="Number">17468</Data></Cell>
+			<Cell><Data ss:Type="Number">56.9101</Data></Cell>
+			<Cell><Data ss:Type="String">Fnac-Darty</Data></Cell>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">43.0899</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002006</Data></Cell>
+			<Cell><Data ss:Type="Number">722182</Data></Cell>
+			<Cell><Data ss:Type="Number">742758</Data></Cell>
+			<Cell><Data ss:Type="Number">20576</Data></Cell>
+			<Cell><Data ss:Type="Number">2.7702</Data></Cell>
+			<Cell><Data ss:Type="Number">423136</Data></Cell>
+			<Cell><Data ss:Type="Number">56.9682</Data></Cell>
+			<Cell><Data ss:Type="String">Viveks</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">43.0318</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70009133</Data></Cell>
+			<Cell><Data ss:Type="Number">100607</Data></Cell>
+			<Cell><Data ss:Type="Number">109604</Data></Cell>
+			<Cell><Data ss:Type="Number">8997</Data></Cell>
+			<Cell><Data ss:Type="Number">8.2086</Data></Cell>
+			<Cell><Data ss:Type="Number">62465</Data></Cell>
+			<Cell><Data ss:Type="Number">56.9915</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Newzealand</Data></Cell>
+			<Cell><Data ss:Type="Number">43.0085</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002004</Data></Cell>
+			<Cell><Data ss:Type="Number">769180</Data></Cell>
+			<Cell><Data ss:Type="Number">803515</Data></Cell>
+			<Cell><Data ss:Type="Number">34335</Data></Cell>
+			<Cell><Data ss:Type="Number">4.2731</Data></Cell>
+			<Cell><Data ss:Type="Number">458183</Data></Cell>
+			<Cell><Data ss:Type="Number">57.0223</Data></Cell>
+			<Cell><Data ss:Type="String">Vijay Sales</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">42.9777</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70015151</Data></Cell>
+			<Cell><Data ss:Type="Number">151173</Data></Cell>
+			<Cell><Data ss:Type="Number">215614</Data></Cell>
+			<Cell><Data ss:Type="Number">64441</Data></Cell>
+			<Cell><Data ss:Type="Number">29.8872</Data></Cell>
+			<Cell><Data ss:Type="Number">123083</Data></Cell>
+			<Cell><Data ss:Type="Number">57.0849</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">42.9151</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90011185</Data></Cell>
+			<Cell><Data ss:Type="Number">197195</Data></Cell>
+			<Cell><Data ss:Type="Number">200515</Data></Cell>
+			<Cell><Data ss:Type="Number">3320</Data></Cell>
+			<Cell><Data ss:Type="Number">1.6557</Data></Cell>
+			<Cell><Data ss:Type="Number">114562</Data></Cell>
+			<Cell><Data ss:Type="Number">57.1339</Data></Cell>
+			<Cell><Data ss:Type="String">Epic Stores</Data></Cell>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">42.8661</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90015145</Data></Cell>
+			<Cell><Data ss:Type="Number">136979</Data></Cell>
+			<Cell><Data ss:Type="Number">204707</Data></Cell>
+			<Cell><Data ss:Type="Number">67728</Data></Cell>
+			<Cell><Data ss:Type="Number">33.0853</Data></Cell>
+			<Cell><Data ss:Type="Number">117020</Data></Cell>
+			<Cell><Data ss:Type="Number">57.1646</Data></Cell>
+			<Cell><Data ss:Type="String">Synthetic</Data></Cell>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="Number">42.8354</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70021096</Data></Cell>
+			<Cell><Data ss:Type="Number">220245</Data></Cell>
+			<Cell><Data ss:Type="Number">316442</Data></Cell>
+			<Cell><Data ss:Type="Number">96197</Data></Cell>
+			<Cell><Data ss:Type="Number">30.3996</Data></Cell>
+			<Cell><Data ss:Type="Number">180963</Data></Cell>
+			<Cell><Data ss:Type="Number">57.1868</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+			<Cell><Data ss:Type="Number">42.8132</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002002</Data></Cell>
+			<Cell><Data ss:Type="Number">710324</Data></Cell>
+			<Cell><Data ss:Type="Number">755370</Data></Cell>
+			<Cell><Data ss:Type="Number">45046</Data></Cell>
+			<Cell><Data ss:Type="Number">5.9634</Data></Cell>
+			<Cell><Data ss:Type="Number">432224</Data></Cell>
+			<Cell><Data ss:Type="Number">57.2202</Data></Cell>
+			<Cell><Data ss:Type="String">Croma</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">42.7798</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90010046</Data></Cell>
+			<Cell><Data ss:Type="Number">110586</Data></Cell>
+			<Cell><Data ss:Type="Number">129739</Data></Cell>
+			<Cell><Data ss:Type="Number">19153</Data></Cell>
+			<Cell><Data ss:Type="Number">14.7627</Data></Cell>
+			<Cell><Data ss:Type="Number">74267</Data></Cell>
+			<Cell><Data ss:Type="Number">57.2434</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Bangladesh</Data></Cell>
+			<Cell><Data ss:Type="Number">42.7566</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90020099</Data></Cell>
+			<Cell><Data ss:Type="Number">32552</Data></Cell>
+			<Cell><Data ss:Type="Number">31942</Data></Cell>
+			<Cell><Data ss:Type="Number">-610</Data></Cell>
+			<Cell><Data ss:Type="Number">-1.9097</Data></Cell>
+			<Cell><Data ss:Type="Number">18290</Data></Cell>
+			<Cell><Data ss:Type="Number">57.2600</Data></Cell>
+			<Cell><Data ss:Type="String">Integration Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">42.7400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70002017</Data></Cell>
+			<Cell><Data ss:Type="Number">685218</Data></Cell>
+			<Cell><Data ss:Type="Number">728761</Data></Cell>
+			<Cell><Data ss:Type="Number">43543</Data></Cell>
+			<Cell><Data ss:Type="Number">5.9749</Data></Cell>
+			<Cell><Data ss:Type="Number">417293</Data></Cell>
+			<Cell><Data ss:Type="Number">57.2606</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">42.7394</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002008</Data></Cell>
+			<Cell><Data ss:Type="Number">1207193</Data></Cell>
+			<Cell><Data ss:Type="Number">1264096</Data></Cell>
+			<Cell><Data ss:Type="Number">56903</Data></Cell>
+			<Cell><Data ss:Type="Number">4.5015</Data></Cell>
+			<Cell><Data ss:Type="Number">724123</Data></Cell>
+			<Cell><Data ss:Type="Number">57.2839</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">42.7161</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90018110</Data></Cell>
+			<Cell><Data ss:Type="Number">101275</Data></Cell>
+			<Cell><Data ss:Type="Number">103402</Data></Cell>
+			<Cell><Data ss:Type="Number">2127</Data></Cell>
+			<Cell><Data ss:Type="Number">2.0570</Data></Cell>
+			<Cell><Data ss:Type="Number">59415</Data></Cell>
+			<Cell><Data ss:Type="Number">57.4602</Data></Cell>
+			<Cell><Data ss:Type="String">Boulanger</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">42.5398</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90018107</Data></Cell>
+			<Cell><Data ss:Type="Number">107194</Data></Cell>
+			<Cell><Data ss:Type="Number">107189</Data></Cell>
+			<Cell><Data ss:Type="Number">-5</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.0047</Data></Cell>
+			<Cell><Data ss:Type="Number">61653</Data></Cell>
+			<Cell><Data ss:Type="Number">57.5180</Data></Cell>
+			<Cell><Data ss:Type="String">Elite</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">42.4820</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90018106</Data></Cell>
+			<Cell><Data ss:Type="Number">131807</Data></Cell>
+			<Cell><Data ss:Type="Number">131097</Data></Cell>
+			<Cell><Data ss:Type="Number">-710</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.5416</Data></Cell>
+			<Cell><Data ss:Type="Number">75490</Data></Cell>
+			<Cell><Data ss:Type="Number">57.5833</Data></Cell>
+			<Cell><Data ss:Type="String">Flipkart</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">42.4167</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002013</Data></Cell>
+			<Cell><Data ss:Type="Number">714570</Data></Cell>
+			<Cell><Data ss:Type="Number">746134</Data></Cell>
+			<Cell><Data ss:Type="Number">31564</Data></Cell>
+			<Cell><Data ss:Type="Number">4.2303</Data></Cell>
+			<Cell><Data ss:Type="Number">430464</Data></Cell>
+			<Cell><Data ss:Type="Number">57.6926</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalslytical</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">42.3074</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002016</Data></Cell>
+			<Cell><Data ss:Type="Number">764235</Data></Cell>
+			<Cell><Data ss:Type="Number">798378</Data></Cell>
+			<Cell><Data ss:Type="Number">34143</Data></Cell>
+			<Cell><Data ss:Type="Number">4.2765</Data></Cell>
+			<Cell><Data ss:Type="Number">461711</Data></Cell>
+			<Cell><Data ss:Type="Number">57.8311</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">42.1689</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70011193</Data></Cell>
+			<Cell><Data ss:Type="Number">202295</Data></Cell>
+			<Cell><Data ss:Type="Number">202369</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+			<Cell><Data ss:Type="Number">0.0366</Data></Cell>
+			<Cell><Data ss:Type="Number">117064</Data></Cell>
+			<Cell><Data ss:Type="Number">57.8468</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">42.1532</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002011</Data></Cell>
+			<Cell><Data ss:Type="Number">768151</Data></Cell>
+			<Cell><Data ss:Type="Number">770865</Data></Cell>
+			<Cell><Data ss:Type="Number">2714</Data></Cell>
+			<Cell><Data ss:Type="Number">0.3521</Data></Cell>
+			<Cell><Data ss:Type="Number">446120</Data></Cell>
+			<Cell><Data ss:Type="Number">57.8726</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">42.1274</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90011189</Data></Cell>
+			<Cell><Data ss:Type="Number">199542</Data></Cell>
+			<Cell><Data ss:Type="Number">201465</Data></Cell>
+			<Cell><Data ss:Type="Number">1923</Data></Cell>
+			<Cell><Data ss:Type="Number">0.9545</Data></Cell>
+			<Cell><Data ss:Type="Number">116683</Data></Cell>
+			<Cell><Data ss:Type="Number">57.9173</Data></Cell>
+			<Cell><Data ss:Type="String">UniEuro</Data></Cell>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">42.0827</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90011192</Data></Cell>
+			<Cell><Data ss:Type="Number">213582</Data></Cell>
+			<Cell><Data ss:Type="Number">214673</Data></Cell>
+			<Cell><Data ss:Type="Number">1091</Data></Cell>
+			<Cell><Data ss:Type="Number">0.5082</Data></Cell>
+			<Cell><Data ss:Type="Number">124453</Data></Cell>
+			<Cell><Data ss:Type="Number">57.9733</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">42.0267</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90018112</Data></Cell>
+			<Cell><Data ss:Type="Number">107461</Data></Cell>
+			<Cell><Data ss:Type="Number">111384</Data></Cell>
+			<Cell><Data ss:Type="Number">3923</Data></Cell>
+			<Cell><Data ss:Type="Number">3.5220</Data></Cell>
+			<Cell><Data ss:Type="Number">64609</Data></Cell>
+			<Cell><Data ss:Type="Number">58.0056</Data></Cell>
+			<Cell><Data ss:Type="String">Euronics</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">41.9944</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90018111</Data></Cell>
+			<Cell><Data ss:Type="Number">106618</Data></Cell>
+			<Cell><Data ss:Type="Number">105230</Data></Cell>
+			<Cell><Data ss:Type="Number">-1388</Data></Cell>
+			<Cell><Data ss:Type="Number">-1.3190</Data></Cell>
+			<Cell><Data ss:Type="Number">61122</Data></Cell>
+			<Cell><Data ss:Type="Number">58.0842</Data></Cell>
+			<Cell><Data ss:Type="String">Media Markt</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">41.9158</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90020100</Data></Cell>
+			<Cell><Data ss:Type="Number">32756</Data></Cell>
+			<Cell><Data ss:Type="Number">33226</Data></Cell>
+			<Cell><Data ss:Type="Number">470</Data></Cell>
+			<Cell><Data ss:Type="Number">1.4146</Data></Cell>
+			<Cell><Data ss:Type="Number">19312</Data></Cell>
+			<Cell><Data ss:Type="Number">58.1232</Data></Cell>
+			<Cell><Data ss:Type="String">Nova</Data></Cell>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">41.8768</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002015</Data></Cell>
+			<Cell><Data ss:Type="Number">728475</Data></Cell>
+			<Cell><Data ss:Type="Number">779900</Data></Cell>
+			<Cell><Data ss:Type="Number">51425</Data></Cell>
+			<Cell><Data ss:Type="Number">6.5938</Data></Cell>
+			<Cell><Data ss:Type="Number">453779</Data></Cell>
+			<Cell><Data ss:Type="Number">58.1843</Data></Cell>
+			<Cell><Data ss:Type="String">Propel</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">41.8157</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70020104</Data></Cell>
+			<Cell><Data ss:Type="Number">33126</Data></Cell>
+			<Cell><Data ss:Type="Number">32568</Data></Cell>
+			<Cell><Data ss:Type="Number">-558</Data></Cell>
+			<Cell><Data ss:Type="Number">-1.7133</Data></Cell>
+			<Cell><Data ss:Type="Number">18980</Data></Cell>
+			<Cell><Data ss:Type="Number">58.2781</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">41.7219</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002014</Data></Cell>
+			<Cell><Data ss:Type="Number">717074</Data></Cell>
+			<Cell><Data ss:Type="Number">731255</Data></Cell>
+			<Cell><Data ss:Type="Number">14181</Data></Cell>
+			<Cell><Data ss:Type="Number">1.9393</Data></Cell>
+			<Cell><Data ss:Type="Number">426963</Data></Cell>
+			<Cell><Data ss:Type="Number">58.3877</Data></Cell>
+			<Cell><Data ss:Type="String">Expression</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">41.6123</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90009129</Data></Cell>
+			<Cell><Data ss:Type="Number">101352</Data></Cell>
+			<Cell><Data ss:Type="Number">109478</Data></Cell>
+			<Cell><Data ss:Type="Number">8126</Data></Cell>
+			<Cell><Data ss:Type="Number">7.4225</Data></Cell>
+			<Cell><Data ss:Type="Number">63944</Data></Cell>
+			<Cell><Data ss:Type="Number">58.4081</Data></Cell>
+			<Cell><Data ss:Type="String">Leader</Data></Cell>
+			<Cell><Data ss:Type="String">Newzealand</Data></Cell>
+			<Cell><Data ss:Type="Number">41.5919</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90018109</Data></Cell>
+			<Cell><Data ss:Type="Number">99911</Data></Cell>
+			<Cell><Data ss:Type="Number">103049</Data></Cell>
+			<Cell><Data ss:Type="Number">3138</Data></Cell>
+			<Cell><Data ss:Type="Number">3.0452</Data></Cell>
+			<Cell><Data ss:Type="Number">60190</Data></Cell>
+			<Cell><Data ss:Type="Number">58.4091</Data></Cell>
+			<Cell><Data ss:Type="String">Chiptec</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">41.5909</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90002009</Data></Cell>
+			<Cell><Data ss:Type="Number">912784</Data></Cell>
+			<Cell><Data ss:Type="Number">925896</Data></Cell>
+			<Cell><Data ss:Type="Number">13112</Data></Cell>
+			<Cell><Data ss:Type="Number">1.4161</Data></Cell>
+			<Cell><Data ss:Type="Number">540854</Data></Cell>
+			<Cell><Data ss:Type="Number">58.4141</Data></Cell>
+			<Cell><Data ss:Type="String">Flipkart</Data></Cell>
+			<Cell><Data ss:Type="String">India</Data></Cell>
+			<Cell><Data ss:Type="Number">41.5859</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90011191</Data></Cell>
+			<Cell><Data ss:Type="Number">209627</Data></Cell>
+			<Cell><Data ss:Type="Number">208789</Data></Cell>
+			<Cell><Data ss:Type="Number">-838</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.4014</Data></Cell>
+			<Cell><Data ss:Type="Number">122060</Data></Cell>
+			<Cell><Data ss:Type="Number">58.4609</Data></Cell>
+			<Cell><Data ss:Type="String">Sorefoz</Data></Cell>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">41.5391</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90018114</Data></Cell>
+			<Cell><Data ss:Type="Number">101895</Data></Cell>
+			<Cell><Data ss:Type="Number">102382</Data></Cell>
+			<Cell><Data ss:Type="Number">487</Data></Cell>
+			<Cell><Data ss:Type="Number">0.4757</Data></Cell>
+			<Cell><Data ss:Type="Number">59877</Data></Cell>
+			<Cell><Data ss:Type="Number">58.4839</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">41.5161</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70011194</Data></Cell>
+			<Cell><Data ss:Type="Number">202537</Data></Cell>
+			<Cell><Data ss:Type="Number">200828</Data></Cell>
+			<Cell><Data ss:Type="Number">-1709</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.8510</Data></Cell>
+			<Cell><Data ss:Type="Number">117669</Data></Cell>
+			<Cell><Data ss:Type="Number">58.5919</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">41.4081</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90018108</Data></Cell>
+			<Cell><Data ss:Type="Number">108913</Data></Cell>
+			<Cell><Data ss:Type="Number">109316</Data></Cell>
+			<Cell><Data ss:Type="Number">403</Data></Cell>
+			<Cell><Data ss:Type="Number">0.3687</Data></Cell>
+			<Cell><Data ss:Type="Number">64061</Data></Cell>
+			<Cell><Data ss:Type="Number">58.6017</Data></Cell>
+			<Cell><Data ss:Type="String">Relief</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">41.3983</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70018115</Data></Cell>
+			<Cell><Data ss:Type="Number">105134</Data></Cell>
+			<Cell><Data ss:Type="Number">106308</Data></Cell>
+			<Cell><Data ss:Type="Number">1174</Data></Cell>
+			<Cell><Data ss:Type="Number">1.1043</Data></Cell>
+			<Cell><Data ss:Type="Number">62356</Data></Cell>
+			<Cell><Data ss:Type="Number">58.6560</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">41.3440</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90020103</Data></Cell>
+			<Cell><Data ss:Type="Number">32515</Data></Cell>
+			<Cell><Data ss:Type="Number">31548</Data></Cell>
+			<Cell><Data ss:Type="Number">-967</Data></Cell>
+			<Cell><Data ss:Type="Number">-3.0652</Data></Cell>
+			<Cell><Data ss:Type="Number">18515</Data></Cell>
+			<Cell><Data ss:Type="Number">58.6883</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">41.3117</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90011190</Data></Cell>
+			<Cell><Data ss:Type="Number">197998</Data></Cell>
+			<Cell><Data ss:Type="Number">202402</Data></Cell>
+			<Cell><Data ss:Type="Number">4404</Data></Cell>
+			<Cell><Data ss:Type="Number">2.1759</Data></Cell>
+			<Cell><Data ss:Type="Number">118882</Data></Cell>
+			<Cell><Data ss:Type="Number">58.7356</Data></Cell>
+			<Cell><Data ss:Type="String">Media Markt</Data></Cell>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">41.2644</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90011187</Data></Cell>
+			<Cell><Data ss:Type="Number">205446</Data></Cell>
+			<Cell><Data ss:Type="Number">209222</Data></Cell>
+			<Cell><Data ss:Type="Number">3776</Data></Cell>
+			<Cell><Data ss:Type="Number">1.8048</Data></Cell>
+			<Cell><Data ss:Type="Number">122958</Data></Cell>
+			<Cell><Data ss:Type="Number">58.7692</Data></Cell>
+			<Cell><Data ss:Type="String">Chip 7</Data></Cell>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">41.2308</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90018113</Data></Cell>
+			<Cell><Data ss:Type="Number">101727</Data></Cell>
+			<Cell><Data ss:Type="Number">101604</Data></Cell>
+			<Cell><Data ss:Type="Number">-123</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.1211</Data></Cell>
+			<Cell><Data ss:Type="Number">59747</Data></Cell>
+			<Cell><Data ss:Type="Number">58.8038</Data></Cell>
+			<Cell><Data ss:Type="String">Elkjøp</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">41.1962</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90018105</Data></Cell>
+			<Cell><Data ss:Type="Number">100975</Data></Cell>
+			<Cell><Data ss:Type="Number">100079</Data></Cell>
+			<Cell><Data ss:Type="Number">-896</Data></Cell>
+			<Cell><Data ss:Type="Number">-0.8953</Data></Cell>
+			<Cell><Data ss:Type="Number">59116</Data></Cell>
+			<Cell><Data ss:Type="Number">59.0693</Data></Cell>
+			<Cell><Data ss:Type="String">Integration Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">40.9307</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90020101</Data></Cell>
+			<Cell><Data ss:Type="Number">30397</Data></Cell>
+			<Cell><Data ss:Type="Number">30529</Data></Cell>
+			<Cell><Data ss:Type="Number">132</Data></Cell>
+			<Cell><Data ss:Type="Number">0.4324</Data></Cell>
+			<Cell><Data ss:Type="Number">18152</Data></Cell>
+			<Cell><Data ss:Type="Number">59.4582</Data></Cell>
+			<Cell><Data ss:Type="String">Euronics</Data></Cell>
+			<Cell><Data ss:Type="String">Austria</Data></Cell>
+			<Cell><Data ss:Type="Number">40.5418</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90011188</Data></Cell>
+			<Cell><Data ss:Type="Number">214952</Data></Cell>
+			<Cell><Data ss:Type="Number">212766</Data></Cell>
+			<Cell><Data ss:Type="Number">-2186</Data></Cell>
+			<Cell><Data ss:Type="Number">-1.0274</Data></Cell>
+			<Cell><Data ss:Type="Number">127304</Data></Cell>
+			<Cell><Data ss:Type="Number">59.8329</Data></Cell>
+			<Cell><Data ss:Type="String">Elkjøp</Data></Cell>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">40.1671</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90003179</Data></Cell>
+			<Cell><Data ss:Type="Number">366627</Data></Cell>
+			<Cell><Data ss:Type="Number">324273</Data></Cell>
+			<Cell><Data ss:Type="Number">-42354</Data></Cell>
+			<Cell><Data ss:Type="Number">-13.0612</Data></Cell>
+			<Cell><Data ss:Type="Number">196698</Data></Cell>
+			<Cell><Data ss:Type="Number">60.6581</Data></Cell>
+			<Cell><Data ss:Type="String">Acclaimed Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Indonesia</Data></Cell>
+			<Cell><Data ss:Type="Number">39.3419</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90008165</Data></Cell>
+			<Cell><Data ss:Type="Number">245134</Data></Cell>
+			<Cell><Data ss:Type="Number">222078</Data></Cell>
+			<Cell><Data ss:Type="Number">-23056</Data></Cell>
+			<Cell><Data ss:Type="Number">-10.3819</Data></Cell>
+			<Cell><Data ss:Type="Number">134856</Data></Cell>
+			<Cell><Data ss:Type="Number">60.7246</Data></Cell>
+			<Cell><Data ss:Type="String">Forward Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Australia</Data></Cell>
+			<Cell><Data ss:Type="Number">39.2754</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70008170</Data></Cell>
+			<Cell><Data ss:Type="Number">245921</Data></Cell>
+			<Cell><Data ss:Type="Number">223959</Data></Cell>
+			<Cell><Data ss:Type="Number">-21962</Data></Cell>
+			<Cell><Data ss:Type="Number">-9.8063</Data></Cell>
+			<Cell><Data ss:Type="Number">137194</Data></Cell>
+			<Cell><Data ss:Type="Number">61.2585</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Australia</Data></Cell>
+			<Cell><Data ss:Type="Number">38.7415</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70005163</Data></Cell>
+			<Cell><Data ss:Type="Number">91411</Data></Cell>
+			<Cell><Data ss:Type="Number">81863</Data></Cell>
+			<Cell><Data ss:Type="Number">-9548</Data></Cell>
+			<Cell><Data ss:Type="Number">-11.6634</Data></Cell>
+			<Cell><Data ss:Type="Number">50234</Data></Cell>
+			<Cell><Data ss:Type="Number">61.3635</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Pakistan</Data></Cell>
+			<Cell><Data ss:Type="Number">38.6365</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022077</Data></Cell>
+			<Cell><Data ss:Type="Number">467929</Data></Cell>
+			<Cell><Data ss:Type="Number">420833</Data></Cell>
+			<Cell><Data ss:Type="Number">-47096</Data></Cell>
+			<Cell><Data ss:Type="Number">-11.1911</Data></Cell>
+			<Cell><Data ss:Type="Number">258990</Data></Cell>
+			<Cell><Data ss:Type="Number">61.5422</Data></Cell>
+			<Cell><Data ss:Type="String">Radio Shack</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">38.4578</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90024184</Data></Cell>
+			<Cell><Data ss:Type="Number">24121</Data></Cell>
+			<Cell><Data ss:Type="Number">20922</Data></Cell>
+			<Cell><Data ss:Type="Number">-3199</Data></Cell>
+			<Cell><Data ss:Type="Number">-15.2901</Data></Cell>
+			<Cell><Data ss:Type="Number">12905</Data></Cell>
+			<Cell><Data ss:Type="Number">61.6815</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Chile</Data></Cell>
+			<Cell><Data ss:Type="Number">38.3185</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90024183</Data></Cell>
+			<Cell><Data ss:Type="Number">22229</Data></Cell>
+			<Cell><Data ss:Type="Number">20425</Data></Cell>
+			<Cell><Data ss:Type="Number">-1804</Data></Cell>
+			<Cell><Data ss:Type="Number">-8.8323</Data></Cell>
+			<Cell><Data ss:Type="Number">12620</Data></Cell>
+			<Cell><Data ss:Type="Number">61.7870</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsbea Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Chile</Data></Cell>
+			<Cell><Data ss:Type="Number">38.2130</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70008169</Data></Cell>
+			<Cell><Data ss:Type="Number">244355</Data></Cell>
+			<Cell><Data ss:Type="Number">222222</Data></Cell>
+			<Cell><Data ss:Type="Number">-22133</Data></Cell>
+			<Cell><Data ss:Type="Number">-9.9599</Data></Cell>
+			<Cell><Data ss:Type="Number">137569</Data></Cell>
+			<Cell><Data ss:Type="Number">61.9061</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Australia</Data></Cell>
+			<Cell><Data ss:Type="Number">38.0939</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90003180</Data></Cell>
+			<Cell><Data ss:Type="Number">375980</Data></Cell>
+			<Cell><Data ss:Type="Number">329422</Data></Cell>
+			<Cell><Data ss:Type="Number">-46558</Data></Cell>
+			<Cell><Data ss:Type="Number">-14.1332</Data></Cell>
+			<Cell><Data ss:Type="Number">205986</Data></Cell>
+			<Cell><Data ss:Type="Number">62.5295</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Indonesia</Data></Cell>
+			<Cell><Data ss:Type="Number">37.4705</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70003182</Data></Cell>
+			<Cell><Data ss:Type="Number">350840</Data></Cell>
+			<Cell><Data ss:Type="Number">310630</Data></Cell>
+			<Cell><Data ss:Type="Number">-40210</Data></Cell>
+			<Cell><Data ss:Type="Number">-12.9447</Data></Cell>
+			<Cell><Data ss:Type="Number">194688</Data></Cell>
+			<Cell><Data ss:Type="Number">62.6752</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Indonesia</Data></Cell>
+			<Cell><Data ss:Type="Number">37.3248</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90005160</Data></Cell>
+			<Cell><Data ss:Type="Number">94584</Data></Cell>
+			<Cell><Data ss:Type="Number">85420</Data></Cell>
+			<Cell><Data ss:Type="Number">-9164</Data></Cell>
+			<Cell><Data ss:Type="Number">-10.7282</Data></Cell>
+			<Cell><Data ss:Type="Number">53552</Data></Cell>
+			<Cell><Data ss:Type="Number">62.6926</Data></Cell>
+			<Cell><Data ss:Type="String">Nomad Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Pakistan</Data></Cell>
+			<Cell><Data ss:Type="Number">37.3074</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90005161</Data></Cell>
+			<Cell><Data ss:Type="Number">87395</Data></Cell>
+			<Cell><Data ss:Type="Number">78495</Data></Cell>
+			<Cell><Data ss:Type="Number">-8900</Data></Cell>
+			<Cell><Data ss:Type="Number">-11.3383</Data></Cell>
+			<Cell><Data ss:Type="Number">49360</Data></Cell>
+			<Cell><Data ss:Type="Number">62.8830</Data></Cell>
+			<Cell><Data ss:Type="String">Zone</Data></Cell>
+			<Cell><Data ss:Type="String">Pakistan</Data></Cell>
+			<Cell><Data ss:Type="Number">37.1170</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90026205</Data></Cell>
+			<Cell><Data ss:Type="Number">35030</Data></Cell>
+			<Cell><Data ss:Type="Number">29720</Data></Cell>
+			<Cell><Data ss:Type="Number">-5310</Data></Cell>
+			<Cell><Data ss:Type="Number">-17.8668</Data></Cell>
+			<Cell><Data ss:Type="Number">18710</Data></Cell>
+			<Cell><Data ss:Type="Number">62.9542</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">37.0458</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022083</Data></Cell>
+			<Cell><Data ss:Type="Number">500727</Data></Cell>
+			<Cell><Data ss:Type="Number">431049</Data></Cell>
+			<Cell><Data ss:Type="Number">-69678</Data></Cell>
+			<Cell><Data ss:Type="Number">-16.1648</Data></Cell>
+			<Cell><Data ss:Type="Number">271498</Data></Cell>
+			<Cell><Data ss:Type="Number">62.9854</Data></Cell>
+			<Cell><Data ss:Type="String">Ebay</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">37.0146</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022072</Data></Cell>
+			<Cell><Data ss:Type="Number">515693</Data></Cell>
+			<Cell><Data ss:Type="Number">447164</Data></Cell>
+			<Cell><Data ss:Type="Number">-68529</Data></Cell>
+			<Cell><Data ss:Type="Number">-15.3252</Data></Cell>
+			<Cell><Data ss:Type="Number">281835</Data></Cell>
+			<Cell><Data ss:Type="Number">63.0272</Data></Cell>
+			<Cell><Data ss:Type="String">Path</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">36.9728</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90008166</Data></Cell>
+			<Cell><Data ss:Type="Number">249527</Data></Cell>
+			<Cell><Data ss:Type="Number">221118</Data></Cell>
+			<Cell><Data ss:Type="Number">-28409</Data></Cell>
+			<Cell><Data ss:Type="Number">-12.8479</Data></Cell>
+			<Cell><Data ss:Type="Number">139763</Data></Cell>
+			<Cell><Data ss:Type="Number">63.2074</Data></Cell>
+			<Cell><Data ss:Type="String">Sound</Data></Cell>
+			<Cell><Data ss:Type="String">Australia</Data></Cell>
+			<Cell><Data ss:Type="Number">36.7926</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90008168</Data></Cell>
+			<Cell><Data ss:Type="Number">263902</Data></Cell>
+			<Cell><Data ss:Type="Number">234089</Data></Cell>
+			<Cell><Data ss:Type="Number">-29813</Data></Cell>
+			<Cell><Data ss:Type="Number">-12.7358</Data></Cell>
+			<Cell><Data ss:Type="Number">148355</Data></Cell>
+			<Cell><Data ss:Type="Number">63.3755</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Australia</Data></Cell>
+			<Cell><Data ss:Type="Number">36.6245</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90005162</Data></Cell>
+			<Cell><Data ss:Type="Number">89516</Data></Cell>
+			<Cell><Data ss:Type="Number">77891</Data></Cell>
+			<Cell><Data ss:Type="Number">-11625</Data></Cell>
+			<Cell><Data ss:Type="Number">-14.9247</Data></Cell>
+			<Cell><Data ss:Type="Number">49377</Data></Cell>
+			<Cell><Data ss:Type="Number">63.3924</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Pakistan</Data></Cell>
+			<Cell><Data ss:Type="Number">36.6076</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022082</Data></Cell>
+			<Cell><Data ss:Type="Number">492326</Data></Cell>
+			<Cell><Data ss:Type="Number">413788</Data></Cell>
+			<Cell><Data ss:Type="Number">-78538</Data></Cell>
+			<Cell><Data ss:Type="Number">-18.9803</Data></Cell>
+			<Cell><Data ss:Type="Number">263364</Data></Cell>
+			<Cell><Data ss:Type="Number">63.6471</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">36.3529</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90008164</Data></Cell>
+			<Cell><Data ss:Type="Number">273753</Data></Cell>
+			<Cell><Data ss:Type="Number">235019</Data></Cell>
+			<Cell><Data ss:Type="Number">-38734</Data></Cell>
+			<Cell><Data ss:Type="Number">-16.4812</Data></Cell>
+			<Cell><Data ss:Type="Number">150376</Data></Cell>
+			<Cell><Data ss:Type="Number">63.9846</Data></Cell>
+			<Cell><Data ss:Type="String">Digimarket</Data></Cell>
+			<Cell><Data ss:Type="String">Australia</Data></Cell>
+			<Cell><Data ss:Type="Number">36.0154</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90005159</Data></Cell>
+			<Cell><Data ss:Type="Number">91487</Data></Cell>
+			<Cell><Data ss:Type="Number">80252</Data></Cell>
+			<Cell><Data ss:Type="Number">-11235</Data></Cell>
+			<Cell><Data ss:Type="Number">-13.9997</Data></Cell>
+			<Cell><Data ss:Type="Number">51449</Data></Cell>
+			<Cell><Data ss:Type="Number">64.1093</Data></Cell>
+			<Cell><Data ss:Type="String">Expression</Data></Cell>
+			<Cell><Data ss:Type="String">Pakistan</Data></Cell>
+			<Cell><Data ss:Type="Number">35.8907</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022078</Data></Cell>
+			<Cell><Data ss:Type="Number">490310</Data></Cell>
+			<Cell><Data ss:Type="Number">421956</Data></Cell>
+			<Cell><Data ss:Type="Number">-68354</Data></Cell>
+			<Cell><Data ss:Type="Number">-16.1993</Data></Cell>
+			<Cell><Data ss:Type="Number">272046</Data></Cell>
+			<Cell><Data ss:Type="Number">64.4726</Data></Cell>
+			<Cell><Data ss:Type="String">Costco</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">35.5274</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70022084</Data></Cell>
+			<Cell><Data ss:Type="Number">530155</Data></Cell>
+			<Cell><Data ss:Type="Number">443643</Data></Cell>
+			<Cell><Data ss:Type="Number">-86512</Data></Cell>
+			<Cell><Data ss:Type="Number">-19.5004</Data></Cell>
+			<Cell><Data ss:Type="Number">286432</Data></Cell>
+			<Cell><Data ss:Type="Number">64.5636</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">35.4364</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022080</Data></Cell>
+			<Cell><Data ss:Type="Number">513823</Data></Cell>
+			<Cell><Data ss:Type="Number">444777</Data></Cell>
+			<Cell><Data ss:Type="Number">-69046</Data></Cell>
+			<Cell><Data ss:Type="Number">-15.5237</Data></Cell>
+			<Cell><Data ss:Type="Number">287308</Data></Cell>
+			<Cell><Data ss:Type="Number">64.5960</Data></Cell>
+			<Cell><Data ss:Type="String">Staples</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">35.4040</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90016173</Data></Cell>
+			<Cell><Data ss:Type="Number">52683</Data></Cell>
+			<Cell><Data ss:Type="Number">43474</Data></Cell>
+			<Cell><Data ss:Type="Number">-9209</Data></Cell>
+			<Cell><Data ss:Type="Number">-21.1828</Data></Cell>
+			<Cell><Data ss:Type="Number">28111</Data></Cell>
+			<Cell><Data ss:Type="Number">64.6616</Data></Cell>
+			<Cell><Data ss:Type="String">Expert</Data></Cell>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">35.3384</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022075</Data></Cell>
+			<Cell><Data ss:Type="Number">505147</Data></Cell>
+			<Cell><Data ss:Type="Number">431868</Data></Cell>
+			<Cell><Data ss:Type="Number">-73279</Data></Cell>
+			<Cell><Data ss:Type="Number">-16.9679</Data></Cell>
+			<Cell><Data ss:Type="Number">279385</Data></Cell>
+			<Cell><Data ss:Type="Number">64.6922</Data></Cell>
+			<Cell><Data ss:Type="String">BestBuy</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">35.3078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70016178</Data></Cell>
+			<Cell><Data ss:Type="Number">51995</Data></Cell>
+			<Cell><Data ss:Type="Number">44347</Data></Cell>
+			<Cell><Data ss:Type="Number">-7648</Data></Cell>
+			<Cell><Data ss:Type="Number">-17.2458</Data></Cell>
+			<Cell><Data ss:Type="Number">28814</Data></Cell>
+			<Cell><Data ss:Type="Number">64.9740</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">35.0260</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022076</Data></Cell>
+			<Cell><Data ss:Type="Number">530884</Data></Cell>
+			<Cell><Data ss:Type="Number">446132</Data></Cell>
+			<Cell><Data ss:Type="Number">-84752</Data></Cell>
+			<Cell><Data ss:Type="Number">-18.9971</Data></Cell>
+			<Cell><Data ss:Type="Number">289910</Data></Cell>
+			<Cell><Data ss:Type="Number">64.9830</Data></Cell>
+			<Cell><Data ss:Type="String">Circuit City</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">35.0170</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90016172</Data></Cell>
+			<Cell><Data ss:Type="Number">57177</Data></Cell>
+			<Cell><Data ss:Type="Number">46003</Data></Cell>
+			<Cell><Data ss:Type="Number">-11174</Data></Cell>
+			<Cell><Data ss:Type="Number">-24.2897</Data></Cell>
+			<Cell><Data ss:Type="Number">29922</Data></Cell>
+			<Cell><Data ss:Type="Number">65.0436</Data></Cell>
+			<Cell><Data ss:Type="String">Power</Data></Cell>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">34.9564</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70016177</Data></Cell>
+			<Cell><Data ss:Type="Number">53066</Data></Cell>
+			<Cell><Data ss:Type="Number">43248</Data></Cell>
+			<Cell><Data ss:Type="Number">-9818</Data></Cell>
+			<Cell><Data ss:Type="Number">-22.7016</Data></Cell>
+			<Cell><Data ss:Type="Number">28134</Data></Cell>
+			<Cell><Data ss:Type="Number">65.0527</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">34.9473</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90008167</Data></Cell>
+			<Cell><Data ss:Type="Number">259762</Data></Cell>
+			<Cell><Data ss:Type="Number">226424</Data></Cell>
+			<Cell><Data ss:Type="Number">-33338</Data></Cell>
+			<Cell><Data ss:Type="Number">-14.7237</Data></Cell>
+			<Cell><Data ss:Type="Number">147696</Data></Cell>
+			<Cell><Data ss:Type="Number">65.2298</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsocity</Data></Cell>
+			<Cell><Data ss:Type="String">Australia</Data></Cell>
+			<Cell><Data ss:Type="Number">34.7702</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70022085</Data></Cell>
+			<Cell><Data ss:Type="Number">478305</Data></Cell>
+			<Cell><Data ss:Type="Number">404483</Data></Cell>
+			<Cell><Data ss:Type="Number">-73822</Data></Cell>
+			<Cell><Data ss:Type="Number">-18.2510</Data></Cell>
+			<Cell><Data ss:Type="Number">263922</Data></Cell>
+			<Cell><Data ss:Type="Number">65.2492</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">34.7508</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022081</Data></Cell>
+			<Cell><Data ss:Type="Number">777382</Data></Cell>
+			<Cell><Data ss:Type="Number">641467</Data></Cell>
+			<Cell><Data ss:Type="Number">-135915</Data></Cell>
+			<Cell><Data ss:Type="Number">-21.1882</Data></Cell>
+			<Cell><Data ss:Type="Number">419293</Data></Cell>
+			<Cell><Data ss:Type="Number">65.3647</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">34.6353</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022071</Data></Cell>
+			<Cell><Data ss:Type="Number">511082</Data></Cell>
+			<Cell><Data ss:Type="Number">430881</Data></Cell>
+			<Cell><Data ss:Type="Number">-80201</Data></Cell>
+			<Cell><Data ss:Type="Number">-18.6133</Data></Cell>
+			<Cell><Data ss:Type="Number">281873</Data></Cell>
+			<Cell><Data ss:Type="Number">65.4178</Data></Cell>
+			<Cell><Data ss:Type="String">Acclaimed Stores</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">34.5822</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022079</Data></Cell>
+			<Cell><Data ss:Type="Number">516429</Data></Cell>
+			<Cell><Data ss:Type="Number">436889</Data></Cell>
+			<Cell><Data ss:Type="Number">-79540</Data></Cell>
+			<Cell><Data ss:Type="Number">-18.2060</Data></Cell>
+			<Cell><Data ss:Type="Number">285946</Data></Cell>
+			<Cell><Data ss:Type="Number">65.4505</Data></Cell>
+			<Cell><Data ss:Type="String">walmart</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">34.5495</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70003181</Data></Cell>
+			<Cell><Data ss:Type="Number">341482</Data></Cell>
+			<Cell><Data ss:Type="Number">306645</Data></Cell>
+			<Cell><Data ss:Type="Number">-34837</Data></Cell>
+			<Cell><Data ss:Type="Number">-11.3607</Data></Cell>
+			<Cell><Data ss:Type="Number">200707</Data></Cell>
+			<Cell><Data ss:Type="Number">65.4526</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Indonesia</Data></Cell>
+			<Cell><Data ss:Type="Number">34.5474</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022073</Data></Cell>
+			<Cell><Data ss:Type="Number">491725</Data></Cell>
+			<Cell><Data ss:Type="Number">411476</Data></Cell>
+			<Cell><Data ss:Type="Number">-80249</Data></Cell>
+			<Cell><Data ss:Type="Number">-19.5027</Data></Cell>
+			<Cell><Data ss:Type="Number">272369</Data></Cell>
+			<Cell><Data ss:Type="Number">66.1932</Data></Cell>
+			<Cell><Data ss:Type="String">Control</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">33.8068</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90016175</Data></Cell>
+			<Cell><Data ss:Type="Number">54803</Data></Cell>
+			<Cell><Data ss:Type="Number">45299</Data></Cell>
+			<Cell><Data ss:Type="Number">-9504</Data></Cell>
+			<Cell><Data ss:Type="Number">-20.9806</Data></Cell>
+			<Cell><Data ss:Type="Number">30076</Data></Cell>
+			<Cell><Data ss:Type="Number">66.3944</Data></Cell>
+			<Cell><Data ss:Type="String">Argos (Sainsbury's)</Data></Cell>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">33.6056</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90016171</Data></Cell>
+			<Cell><Data ss:Type="Number">54899</Data></Cell>
+			<Cell><Data ss:Type="Number">45292</Data></Cell>
+			<Cell><Data ss:Type="Number">-9607</Data></Cell>
+			<Cell><Data ss:Type="Number">-21.2113</Data></Cell>
+			<Cell><Data ss:Type="Number">30073</Data></Cell>
+			<Cell><Data ss:Type="Number">66.3980</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsara Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">33.6020</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90004066</Data></Cell>
+			<Cell><Data ss:Type="Number">48702</Data></Cell>
+			<Cell><Data ss:Type="Number">38948</Data></Cell>
+			<Cell><Data ss:Type="Number">-9754</Data></Cell>
+			<Cell><Data ss:Type="Number">-25.0436</Data></Cell>
+			<Cell><Data ss:Type="Number">25864</Data></Cell>
+			<Cell><Data ss:Type="Number">66.4065</Data></Cell>
+			<Cell><Data ss:Type="String">Surface Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">33.5935</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90022074</Data></Cell>
+			<Cell><Data ss:Type="Number">629907</Data></Cell>
+			<Cell><Data ss:Type="Number">525718</Data></Cell>
+			<Cell><Data ss:Type="Number">-104189</Data></Cell>
+			<Cell><Data ss:Type="Number">-19.8184</Data></Cell>
+			<Cell><Data ss:Type="Number">350847</Data></Cell>
+			<Cell><Data ss:Type="Number">66.7367</Data></Cell>
+			<Cell><Data ss:Type="String">Flipkart</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">33.2633</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90016174</Data></Cell>
+			<Cell><Data ss:Type="Number">53358</Data></Cell>
+			<Cell><Data ss:Type="Number">43748</Data></Cell>
+			<Cell><Data ss:Type="Number">-9610</Data></Cell>
+			<Cell><Data ss:Type="Number">-21.9667</Data></Cell>
+			<Cell><Data ss:Type="Number">29264</Data></Cell>
+			<Cell><Data ss:Type="Number">66.8922</Data></Cell>
+			<Cell><Data ss:Type="String">Currys (Dixons Carphone)</Data></Cell>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">33.1078</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90016176</Data></Cell>
+			<Cell><Data ss:Type="Number">56974</Data></Cell>
+			<Cell><Data ss:Type="Number">47308</Data></Cell>
+			<Cell><Data ss:Type="Number">-9666</Data></Cell>
+			<Cell><Data ss:Type="Number">-20.4321</Data></Cell>
+			<Cell><Data ss:Type="Number">31702</Data></Cell>
+			<Cell><Data ss:Type="Number">67.0119</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">32.9881</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90004062</Data></Cell>
+			<Cell><Data ss:Type="Number">49011</Data></Cell>
+			<Cell><Data ss:Type="Number">39426</Data></Cell>
+			<Cell><Data ss:Type="Number">-9585</Data></Cell>
+			<Cell><Data ss:Type="Number">-24.3114</Data></Cell>
+			<Cell><Data ss:Type="Number">26555</Data></Cell>
+			<Cell><Data ss:Type="Number">67.3540</Data></Cell>
+			<Cell><Data ss:Type="String">Flawless Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">32.6460</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70004069</Data></Cell>
+			<Cell><Data ss:Type="Number">48332</Data></Cell>
+			<Cell><Data ss:Type="Number">38259</Data></Cell>
+			<Cell><Data ss:Type="Number">-10073</Data></Cell>
+			<Cell><Data ss:Type="Number">-26.3284</Data></Cell>
+			<Cell><Data ss:Type="Number">25947</Data></Cell>
+			<Cell><Data ss:Type="Number">67.8193</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">32.1807</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70026206</Data></Cell>
+			<Cell><Data ss:Type="Number">36181</Data></Cell>
+			<Cell><Data ss:Type="Number">28628</Data></Cell>
+			<Cell><Data ss:Type="Number">-7553</Data></Cell>
+			<Cell><Data ss:Type="Number">-26.3833</Data></Cell>
+			<Cell><Data ss:Type="Number">19445</Data></Cell>
+			<Cell><Data ss:Type="Number">67.9230</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Mexico</Data></Cell>
+			<Cell><Data ss:Type="Number">32.0770</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90004061</Data></Cell>
+			<Cell><Data ss:Type="Number">48186</Data></Cell>
+			<Cell><Data ss:Type="Number">37273</Data></Cell>
+			<Cell><Data ss:Type="Number">-10913</Data></Cell>
+			<Cell><Data ss:Type="Number">-29.2786</Data></Cell>
+			<Cell><Data ss:Type="Number">25743</Data></Cell>
+			<Cell><Data ss:Type="Number">69.0661</Data></Cell>
+			<Cell><Data ss:Type="String">Info Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">30.9339</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90004067</Data></Cell>
+			<Cell><Data ss:Type="Number">81893</Data></Cell>
+			<Cell><Data ss:Type="Number">63635</Data></Cell>
+			<Cell><Data ss:Type="Number">-18258</Data></Cell>
+			<Cell><Data ss:Type="Number">-28.6918</Data></Cell>
+			<Cell><Data ss:Type="Number">44156</Data></Cell>
+			<Cell><Data ss:Type="Number">69.3895</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon</Data></Cell>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">30.6105</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90004065</Data></Cell>
+			<Cell><Data ss:Type="Number">47265</Data></Cell>
+			<Cell><Data ss:Type="Number">37246</Data></Cell>
+			<Cell><Data ss:Type="Number">-10019</Data></Cell>
+			<Cell><Data ss:Type="Number">-26.8995</Data></Cell>
+			<Cell><Data ss:Type="Number">25939</Data></Cell>
+			<Cell><Data ss:Type="Number">69.6424</Data></Cell>
+			<Cell><Data ss:Type="String">Neptune</Data></Cell>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">30.3576</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90004063</Data></Cell>
+			<Cell><Data ss:Type="Number">50885</Data></Cell>
+			<Cell><Data ss:Type="Number">39776</Data></Cell>
+			<Cell><Data ss:Type="Number">-11109</Data></Cell>
+			<Cell><Data ss:Type="Number">-27.9289</Data></Cell>
+			<Cell><Data ss:Type="Number">27789</Data></Cell>
+			<Cell><Data ss:Type="Number">69.8637</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalsbea Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">30.1363</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90004064</Data></Cell>
+			<Cell><Data ss:Type="Number">52936</Data></Cell>
+			<Cell><Data ss:Type="Number">40415</Data></Cell>
+			<Cell><Data ss:Type="Number">-12521</Data></Cell>
+			<Cell><Data ss:Type="Number">-30.9811</Data></Cell>
+			<Cell><Data ss:Type="Number">28629</Data></Cell>
+			<Cell><Data ss:Type="Number">70.8376</Data></Cell>
+			<Cell><Data ss:Type="String">All-Out</Data></Cell>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">29.1624</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70004070</Data></Cell>
+			<Cell><Data ss:Type="Number">50355</Data></Cell>
+			<Cell><Data ss:Type="Number">38595</Data></Cell>
+			<Cell><Data ss:Type="Number">-11760</Data></Cell>
+			<Cell><Data ss:Type="Number">-30.4703</Data></Cell>
+			<Cell><Data ss:Type="Number">27364</Data></Cell>
+			<Cell><Data ss:Type="Number">70.9004</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">29.0996</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90004068</Data></Cell>
+			<Cell><Data ss:Type="Number">51922</Data></Cell>
+			<Cell><Data ss:Type="Number">40944</Data></Cell>
+			<Cell><Data ss:Type="Number">-10978</Data></Cell>
+			<Cell><Data ss:Type="Number">-26.8122</Data></Cell>
+			<Cell><Data ss:Type="Number">29332</Data></Cell>
+			<Cell><Data ss:Type="Number">71.6393</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">28.3607</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90006156</Data></Cell>
+			<Cell><Data ss:Type="Number">212263</Data></Cell>
+			<Cell><Data ss:Type="Number">157373</Data></Cell>
+			<Cell><Data ss:Type="Number">-54890</Data></Cell>
+			<Cell><Data ss:Type="Number">-34.8789</Data></Cell>
+			<Cell><Data ss:Type="Number">113404</Data></Cell>
+			<Cell><Data ss:Type="Number">72.0606</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Philiphines</Data></Cell>
+			<Cell><Data ss:Type="Number">27.9394</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90006153</Data></Cell>
+			<Cell><Data ss:Type="Number">195964</Data></Cell>
+			<Cell><Data ss:Type="Number">145447</Data></Cell>
+			<Cell><Data ss:Type="Number">-50517</Data></Cell>
+			<Cell><Data ss:Type="Number">-34.7322</Data></Cell>
+			<Cell><Data ss:Type="Number">106345</Data></Cell>
+			<Cell><Data ss:Type="Number">73.1160</Data></Cell>
+			<Cell><Data ss:Type="String">Insight</Data></Cell>
+			<Cell><Data ss:Type="String">Philiphines</Data></Cell>
+			<Cell><Data ss:Type="Number">26.8840</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">80006155</Data></Cell>
+			<Cell><Data ss:Type="Number">829053</Data></Cell>
+			<Cell><Data ss:Type="Number">599962</Data></Cell>
+			<Cell><Data ss:Type="Number">-229091</Data></Cell>
+			<Cell><Data ss:Type="Number">-38.1843</Data></Cell>
+			<Cell><Data ss:Type="Number">448279</Data></Cell>
+			<Cell><Data ss:Type="Number">74.7179</Data></Cell>
+			<Cell><Data ss:Type="String">Novus</Data></Cell>
+			<Cell><Data ss:Type="String">Philiphines</Data></Cell>
+			<Cell><Data ss:Type="Number">25.2821</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70006157</Data></Cell>
+			<Cell><Data ss:Type="Number">193424</Data></Cell>
+			<Cell><Data ss:Type="Number">141100</Data></Cell>
+			<Cell><Data ss:Type="Number">-52324</Data></Cell>
+			<Cell><Data ss:Type="Number">-37.0829</Data></Cell>
+			<Cell><Data ss:Type="Number">105538</Data></Cell>
+			<Cell><Data ss:Type="Number">74.7966</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Philiphines</Data></Cell>
+			<Cell><Data ss:Type="Number">25.2034</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90012038</Data></Cell>
+			<Cell><Data ss:Type="Number">109442</Data></Cell>
+			<Cell><Data ss:Type="Number">77864</Data></Cell>
+			<Cell><Data ss:Type="Number">-31578</Data></Cell>
+			<Cell><Data ss:Type="Number">-40.5553</Data></Cell>
+			<Cell><Data ss:Type="Number">58628</Data></Cell>
+			<Cell><Data ss:Type="Number">75.2954</Data></Cell>
+			<Cell><Data ss:Type="String">Expert</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">24.7046</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">80006154</Data></Cell>
+			<Cell><Data ss:Type="Number">789531</Data></Cell>
+			<Cell><Data ss:Type="Number">576158</Data></Cell>
+			<Cell><Data ss:Type="Number">-213373</Data></Cell>
+			<Cell><Data ss:Type="Number">-37.0338</Data></Cell>
+			<Cell><Data ss:Type="Number">434273</Data></Cell>
+			<Cell><Data ss:Type="Number">75.3739</Data></Cell>
+			<Cell><Data ss:Type="String">Synthetic</Data></Cell>
+			<Cell><Data ss:Type="String">Philiphines</Data></Cell>
+			<Cell><Data ss:Type="Number">24.6261</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70006158</Data></Cell>
+			<Cell><Data ss:Type="Number">202406</Data></Cell>
+			<Cell><Data ss:Type="Number">142896</Data></Cell>
+			<Cell><Data ss:Type="Number">-59510</Data></Cell>
+			<Cell><Data ss:Type="Number">-41.6457</Data></Cell>
+			<Cell><Data ss:Type="Number">107896</Data></Cell>
+			<Cell><Data ss:Type="Number">75.5067</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Philiphines</Data></Cell>
+			<Cell><Data ss:Type="Number">24.4933</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90019200</Data></Cell>
+			<Cell><Data ss:Type="Number">28356</Data></Cell>
+			<Cell><Data ss:Type="Number">20087</Data></Cell>
+			<Cell><Data ss:Type="Number">-8269</Data></Cell>
+			<Cell><Data ss:Type="Number">-41.1659</Data></Cell>
+			<Cell><Data ss:Type="Number">15197</Data></Cell>
+			<Cell><Data ss:Type="Number">75.6559</Data></Cell>
+			<Cell><Data ss:Type="String">Sorefoz</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">24.3441</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90012041</Data></Cell>
+			<Cell><Data ss:Type="Number">110871</Data></Cell>
+			<Cell><Data ss:Type="Number">77928</Data></Cell>
+			<Cell><Data ss:Type="Number">-32943</Data></Cell>
+			<Cell><Data ss:Type="Number">-42.2736</Data></Cell>
+			<Cell><Data ss:Type="Number">59683</Data></Cell>
+			<Cell><Data ss:Type="Number">76.5874</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">23.4126</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70012042</Data></Cell>
+			<Cell><Data ss:Type="Number">109259</Data></Cell>
+			<Cell><Data ss:Type="Number">77164</Data></Cell>
+			<Cell><Data ss:Type="Number">-32095</Data></Cell>
+			<Cell><Data ss:Type="Number">-41.5932</Data></Cell>
+			<Cell><Data ss:Type="Number">59503</Data></Cell>
+			<Cell><Data ss:Type="Number">77.1124</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">22.8876</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90012033</Data></Cell>
+			<Cell><Data ss:Type="Number">109318</Data></Cell>
+			<Cell><Data ss:Type="Number">75889</Data></Cell>
+			<Cell><Data ss:Type="Number">-33429</Data></Cell>
+			<Cell><Data ss:Type="Number">-44.0499</Data></Cell>
+			<Cell><Data ss:Type="Number">58803</Data></Cell>
+			<Cell><Data ss:Type="Number">77.4855</Data></Cell>
+			<Cell><Data ss:Type="String">Digimarket</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">22.5145</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90012039</Data></Cell>
+			<Cell><Data ss:Type="Number">117037</Data></Cell>
+			<Cell><Data ss:Type="Number">81844</Data></Cell>
+			<Cell><Data ss:Type="Number">-35193</Data></Cell>
+			<Cell><Data ss:Type="Number">-43.0001</Data></Cell>
+			<Cell><Data ss:Type="Number">63675</Data></Cell>
+			<Cell><Data ss:Type="Number">77.8004</Data></Cell>
+			<Cell><Data ss:Type="String">Currys (Dixons Carphone)</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">22.1996</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90012040</Data></Cell>
+			<Cell><Data ss:Type="Number">116151</Data></Cell>
+			<Cell><Data ss:Type="Number">84035</Data></Cell>
+			<Cell><Data ss:Type="Number">-32116</Data></Cell>
+			<Cell><Data ss:Type="Number">-38.2174</Data></Cell>
+			<Cell><Data ss:Type="Number">65670</Data></Cell>
+			<Cell><Data ss:Type="Number">78.1460</Data></Cell>
+			<Cell><Data ss:Type="String">Fnac-Darty</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">21.8540</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70019204</Data></Cell>
+			<Cell><Data ss:Type="Number">27840</Data></Cell>
+			<Cell><Data ss:Type="Number">19488</Data></Cell>
+			<Cell><Data ss:Type="Number">-8352</Data></Cell>
+			<Cell><Data ss:Type="Number">-42.8571</Data></Cell>
+			<Cell><Data ss:Type="Number">15296</Data></Cell>
+			<Cell><Data ss:Type="Number">78.4893</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">21.5107</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90019201</Data></Cell>
+			<Cell><Data ss:Type="Number">25685</Data></Cell>
+			<Cell><Data ss:Type="Number">17974</Data></Cell>
+			<Cell><Data ss:Type="Number">-7711</Data></Cell>
+			<Cell><Data ss:Type="Number">-42.9009</Data></Cell>
+			<Cell><Data ss:Type="Number">14281</Data></Cell>
+			<Cell><Data ss:Type="Number">79.4537</Data></Cell>
+			<Cell><Data ss:Type="String">Expert</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">20.5463</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70012043</Data></Cell>
+			<Cell><Data ss:Type="Number">114116</Data></Cell>
+			<Cell><Data ss:Type="Number">80261</Data></Cell>
+			<Cell><Data ss:Type="Number">-33855</Data></Cell>
+			<Cell><Data ss:Type="Number">-42.1811</Data></Cell>
+			<Cell><Data ss:Type="Number">64375</Data></Cell>
+			<Cell><Data ss:Type="Number">80.2071</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">19.7929</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">80007195</Data></Cell>
+			<Cell><Data ss:Type="Number">1443568</Data></Cell>
+			<Cell><Data ss:Type="Number">976823</Data></Cell>
+			<Cell><Data ss:Type="Number">-466745</Data></Cell>
+			<Cell><Data ss:Type="Number">-47.7819</Data></Cell>
+			<Cell><Data ss:Type="Number">786971</Data></Cell>
+			<Cell><Data ss:Type="Number">80.5643</Data></Cell>
+			<Cell><Data ss:Type="String">Sage</Data></Cell>
+			<Cell><Data ss:Type="String">South Korea</Data></Cell>
+			<Cell><Data ss:Type="Number">19.4357</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90012037</Data></Cell>
+			<Cell><Data ss:Type="Number">110414</Data></Cell>
+			<Cell><Data ss:Type="Number">76997</Data></Cell>
+			<Cell><Data ss:Type="Number">-33417</Data></Cell>
+			<Cell><Data ss:Type="Number">-43.4004</Data></Cell>
+			<Cell><Data ss:Type="Number">62237</Data></Cell>
+			<Cell><Data ss:Type="Number">80.8304</Data></Cell>
+			<Cell><Data ss:Type="String">Saturn</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">19.1696</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90012035</Data></Cell>
+			<Cell><Data ss:Type="Number">116882</Data></Cell>
+			<Cell><Data ss:Type="Number">80119</Data></Cell>
+			<Cell><Data ss:Type="Number">-36763</Data></Cell>
+			<Cell><Data ss:Type="Number">-45.8855</Data></Cell>
+			<Cell><Data ss:Type="Number">64997</Data></Cell>
+			<Cell><Data ss:Type="Number">81.1256</Data></Cell>
+			<Cell><Data ss:Type="String">Notebillig</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">18.8744</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90012034</Data></Cell>
+			<Cell><Data ss:Type="Number">112107</Data></Cell>
+			<Cell><Data ss:Type="Number">76219</Data></Cell>
+			<Cell><Data ss:Type="Number">-35888</Data></Cell>
+			<Cell><Data ss:Type="Number">-47.0854</Data></Cell>
+			<Cell><Data ss:Type="Number">62208</Data></Cell>
+			<Cell><Data ss:Type="Number">81.6174</Data></Cell>
+			<Cell><Data ss:Type="String">Otto</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">18.3826</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90012036</Data></Cell>
+			<Cell><Data ss:Type="Number">118242</Data></Cell>
+			<Cell><Data ss:Type="Number">80367</Data></Cell>
+			<Cell><Data ss:Type="Number">-37875</Data></Cell>
+			<Cell><Data ss:Type="Number">-47.1276</Data></Cell>
+			<Cell><Data ss:Type="Number">65667</Data></Cell>
+			<Cell><Data ss:Type="Number">81.7089</Data></Cell>
+			<Cell><Data ss:Type="String">Billa</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">18.2911</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">80007196</Data></Cell>
+			<Cell><Data ss:Type="Number">1456255</Data></Cell>
+			<Cell><Data ss:Type="Number">986574</Data></Cell>
+			<Cell><Data ss:Type="Number">-469681</Data></Cell>
+			<Cell><Data ss:Type="Number">-47.6073</Data></Cell>
+			<Cell><Data ss:Type="Number">807109</Data></Cell>
+			<Cell><Data ss:Type="Number">81.8093</Data></Cell>
+			<Cell><Data ss:Type="String">Leader</Data></Cell>
+			<Cell><Data ss:Type="String">South Korea</Data></Cell>
+			<Cell><Data ss:Type="Number">18.1907</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70007199</Data></Cell>
+			<Cell><Data ss:Type="Number">358064</Data></Cell>
+			<Cell><Data ss:Type="Number">236637</Data></Cell>
+			<Cell><Data ss:Type="Number">-121427</Data></Cell>
+			<Cell><Data ss:Type="Number">-51.3136</Data></Cell>
+			<Cell><Data ss:Type="Number">194953</Data></Cell>
+			<Cell><Data ss:Type="Number">82.3848</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">South Korea</Data></Cell>
+			<Cell><Data ss:Type="Number">17.6152</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70007198</Data></Cell>
+			<Cell><Data ss:Type="Number">345667</Data></Cell>
+			<Cell><Data ss:Type="Number">228102</Data></Cell>
+			<Cell><Data ss:Type="Number">-117565</Data></Cell>
+			<Cell><Data ss:Type="Number">-51.5405</Data></Cell>
+			<Cell><Data ss:Type="Number">188583</Data></Cell>
+			<Cell><Data ss:Type="Number">82.6749</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">South Korea</Data></Cell>
+			<Cell><Data ss:Type="Number">17.3251</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90019203</Data></Cell>
+			<Cell><Data ss:Type="Number">27550</Data></Cell>
+			<Cell><Data ss:Type="Number">18912</Data></Cell>
+			<Cell><Data ss:Type="Number">-8638</Data></Cell>
+			<Cell><Data ss:Type="Number">-45.6747</Data></Cell>
+			<Cell><Data ss:Type="Number">15780</Data></Cell>
+			<Cell><Data ss:Type="Number">83.4391</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">16.5609</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90019202</Data></Cell>
+			<Cell><Data ss:Type="Number">26581</Data></Cell>
+			<Cell><Data ss:Type="Number">18075</Data></Cell>
+			<Cell><Data ss:Type="Number">-8506</Data></Cell>
+			<Cell><Data ss:Type="Number">-47.0595</Data></Cell>
+			<Cell><Data ss:Type="Number">15130</Data></Cell>
+			<Cell><Data ss:Type="Number">83.7068</Data></Cell>
+			<Cell><Data ss:Type="String">Argos (Sainsbury's)</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden</Data></Cell>
+			<Cell><Data ss:Type="Number">16.2932</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90007197</Data></Cell>
+			<Cell><Data ss:Type="Number">344240</Data></Cell>
+			<Cell><Data ss:Type="Number">226857</Data></Cell>
+			<Cell><Data ss:Type="Number">-117383</Data></Cell>
+			<Cell><Data ss:Type="Number">-51.7432</Data></Cell>
+			<Cell><Data ss:Type="Number">191047</Data></Cell>
+			<Cell><Data ss:Type="Number">84.2147</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">South Korea</Data></Cell>
+			<Cell><Data ss:Type="Number">15.7853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70014142</Data></Cell>
+			<Cell><Data ss:Type="Number">81324</Data></Cell>
+			<Cell><Data ss:Type="Number">44704</Data></Cell>
+			<Cell><Data ss:Type="Number">-36620</Data></Cell>
+			<Cell><Data ss:Type="Number">-81.9166</Data></Cell>
+			<Cell><Data ss:Type="Number">47904</Data></Cell>
+			<Cell><Data ss:Type="Number">107.1582</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq Exclusive</Data></Cell>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">70014143</Data></Cell>
+			<Cell><Data ss:Type="Number">81942</Data></Cell>
+			<Cell><Data ss:Type="Number">45314</Data></Cell>
+			<Cell><Data ss:Type="Number">-36628</Data></Cell>
+			<Cell><Data ss:Type="Number">-80.8315</Data></Cell>
+			<Cell><Data ss:Type="Number">48544</Data></Cell>
+			<Cell><Data ss:Type="Number">107.1280</Data></Cell>
+			<Cell><Data ss:Type="String">Atliq e Store</Data></Cell>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90014135</Data></Cell>
+			<Cell><Data ss:Type="Number">82731</Data></Cell>
+			<Cell><Data ss:Type="Number">46698</Data></Cell>
+			<Cell><Data ss:Type="Number">-36033</Data></Cell>
+			<Cell><Data ss:Type="Number">-77.1618</Data></Cell>
+			<Cell><Data ss:Type="Number">48429</Data></Cell>
+			<Cell><Data ss:Type="Number">103.7068</Data></Cell>
+			<Cell><Data ss:Type="String">Electricalslance Stores</Data></Cell>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90014137</Data></Cell>
+			<Cell><Data ss:Type="Number">77931</Data></Cell>
+			<Cell><Data ss:Type="Number">44783</Data></Cell>
+			<Cell><Data ss:Type="Number">-33148</Data></Cell>
+			<Cell><Data ss:Type="Number">-74.0192</Data></Cell>
+			<Cell><Data ss:Type="Number">45748</Data></Cell>
+			<Cell><Data ss:Type="Number">102.1548</Data></Cell>
+			<Cell><Data ss:Type="String">Media Markt</Data></Cell>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90014138</Data></Cell>
+			<Cell><Data ss:Type="Number">79249</Data></Cell>
+			<Cell><Data ss:Type="Number">43755</Data></Cell>
+			<Cell><Data ss:Type="Number">-35494</Data></Cell>
+			<Cell><Data ss:Type="Number">-81.1199</Data></Cell>
+			<Cell><Data ss:Type="Number">45822</Data></Cell>
+			<Cell><Data ss:Type="Number">104.7240</Data></Cell>
+			<Cell><Data ss:Type="String">Mbit</Data></Cell>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90014139</Data></Cell>
+			<Cell><Data ss:Type="Number">83198</Data></Cell>
+			<Cell><Data ss:Type="Number">46220</Data></Cell>
+			<Cell><Data ss:Type="Number">-36978</Data></Cell>
+			<Cell><Data ss:Type="Number">-80.0043</Data></Cell>
+			<Cell><Data ss:Type="Number">48430</Data></Cell>
+			<Cell><Data ss:Type="Number">104.7815</Data></Cell>
+			<Cell><Data ss:Type="String">Elkjøp</Data></Cell>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90014141</Data></Cell>
+			<Cell><Data ss:Type="Number">77462</Data></Cell>
+			<Cell><Data ss:Type="Number">43887</Data></Cell>
+			<Cell><Data ss:Type="Number">-33575</Data></Cell>
+			<Cell><Data ss:Type="Number">-76.5033</Data></Cell>
+			<Cell><Data ss:Type="Number">45015</Data></Cell>
+			<Cell><Data ss:Type="Number">102.5702</Data></Cell>
+			<Cell><Data ss:Type="String">Amazon </Data></Cell>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90014136</Data></Cell>
+			<Cell><Data ss:Type="Number">84808</Data></Cell>
+			<Cell><Data ss:Type="Number">48415</Data></Cell>
+			<Cell><Data ss:Type="Number">-36393</Data></Cell>
+			<Cell><Data ss:Type="Number">-75.1689</Data></Cell>
+			<Cell><Data ss:Type="Number">48445</Data></Cell>
+			<Cell><Data ss:Type="Number">100.0620</Data></Cell>
+			<Cell><Data ss:Type="String">Reliance Digital</Data></Cell>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">90014140</Data></Cell>
+			<Cell><Data ss:Type="Number">85581</Data></Cell>
+			<Cell><Data ss:Type="Number">47564</Data></Cell>
+			<Cell><Data ss:Type="Number">-38017</Data></Cell>
+			<Cell><Data ss:Type="Number">-79.9281</Data></Cell>
+			<Cell><Data ss:Type="Number">49761</Data></Cell>
+			<Cell><Data ss:Type="Number">104.6190</Data></Cell>
+			<Cell><Data ss:Type="String">Radio Popular</Data></Cell>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
